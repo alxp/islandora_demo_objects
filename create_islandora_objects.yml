@@ -1,0 +1,11 @@
+task: create
+host: "https://islandora.traefik.me"
+username: admin
+password: password
+input_csv: 'https://docs.google.com/spreadsheets/d/1DV0Ka0ZafZq3RgCn0x_AetFtlmnMuNFltzck2QL0ApY/edit?usp=sharing'
+google_sheets_gid: 994664908
+content_type: islandora_object
+subdelimiter: "|"
+allow_adding_terms: true
+input_dir: repo_islandora_demo_objects
+ignore_csv_columns: ["Transcript", "Supplemental_PDF", "field_display_hints"]
