@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.5.5" timestamp="3/4/23, 3:23 AM">
+  <identification>
+    <identity format="TIFF EXIF" mimetype="image/tiff" toolname="FITS" toolversion="1.5.5">
+      <tool toolname="Jhove" toolversion="1.20.1" />
+      <tool toolname="Exiftool" toolversion="11.54" />
+      <version toolname="Jhove" toolversion="1.20.1">6.0</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.20.1">18610360</size>
+    <creatingApplicationName toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">Adobe Photoshop CC (Macintosh)</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="11.54" status="CONFLICT">2014:05:02 12:46:20</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.21" status="CONFLICT">2014-05-02T12:46:20</lastmodified>
+    <created toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">2010:05:19 09:25:32-03:00</created>
+    <filepath toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">/Users/nbanks/Projects/islandora/islandora_demo_objects/Newspapers and Serials/Newspaper_Sample/19690121-001-010-001.tif</filepath>
+    <filename toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">19690121-001-010-001.tif</filename>
+    <md5checksum toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">73be38a681db933b4dd8bd79dedafe66</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">1677878446955</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.20.1" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.20.1" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <image>
+      <byteOrder toolname="Jhove" toolversion="1.20.1" status="SINGLE_RESULT">little endian</byteOrder>
+      <compressionScheme toolname="Jhove" toolversion="1.20.1">Uncompressed</compressionScheme>
+      <imageWidth toolname="Jhove" toolversion="1.20.1">3633</imageWidth>
+      <imageHeight toolname="Jhove" toolversion="1.20.1">5116</imageHeight>
+      <colorSpace toolname="Jhove" toolversion="1.20.1">BlackIsZero</colorSpace>
+      <iccProfileName toolname="Jhove" toolversion="1.20.1">Dot Gain 20%</iccProfileName>
+      <orientation toolname="Jhove" toolversion="1.20.1">normal*</orientation>
+      <samplingFrequencyUnit toolname="Jhove" toolversion="1.20.1">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Jhove" toolversion="1.20.1">300</xSamplingFrequency>
+      <ySamplingFrequency toolname="Jhove" toolversion="1.20.1">300</ySamplingFrequency>
+      <bitsPerSample toolname="Jhove" toolversion="1.20.1">8</bitsPerSample>
+      <samplesPerPixel toolname="Jhove" toolversion="1.20.1">1</samplesPerPixel>
+      <scanningSoftwareName toolname="Jhove" toolversion="1.20.1">Adobe Photoshop CC (Macintosh)</scanningSoftwareName>
+      <iccProfileVersion toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">2.1.0</iccProfileVersion>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="3494">
+    <tool toolname="MediaInfo" toolversion="[could not launch tool]" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.4" executionTime="3086" />
+    <tool toolname="Jhove" toolversion="1.20.1" executionTime="3396" />
+    <tool toolname="file utility" toolversion="5.43" executionTime="2812" />
+    <tool toolname="Exiftool" toolversion="11.54" executionTime="3038" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="1.0" executionTime="2685" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="2522" />
+    <tool toolname="Tika" toolversion="1.21" executionTime="3020" />
+  </statistics>
+</fits>
+
