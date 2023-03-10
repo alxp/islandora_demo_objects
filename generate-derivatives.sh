@@ -5,7 +5,7 @@ set -e
 PROGDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 readonly PROGDIR
 
-TAG=issue-215-update-alpine
+TAG=main
 
 image_thumbnail() {
   local tag="${1}"
@@ -22,11 +22,16 @@ find "${PROGDIR}" -type f \
       -name "*.jp2" -o \
       -name "*.jpeg" -o \
       -name "*.tif" -o \
+      -name "*.png" -o \
       -name "*.tiff" \
   \) -a ! \
   \( \
-    -name "*.service.jpg" -o \
-    -name "*.thumbnail.jpg" \
+    -path "*Collection Service Files*" -o \
+    -name "LMM_signed_photo.jpeg" -o \
+    -name "The_Cadre_logo.jpg" -o \
+    -name "*_TN.*" -o \
+    -name "*.service.*" -o \
+    -name "*.thumbnail.*" \
   \) | parallel image_thumbnail "${TAG}"
 
 pdf_thumbnail() {
@@ -67,7 +72,22 @@ image_service() {
   docker run -i --rm --entrypoint convert islandora/houdini:${tag} - jpeg:- < "${src}" > "${dest}"
 }
 export -f image_service
-find "${PROGDIR}" -type f -name "*.jp2" -o -name "*.tif" -o -name "*.tiff"  | parallel image_service "${TAG}"
+find "${PROGDIR}" -type f \
+  \(  -name "*.jpg" -o \
+      -name "*.jp2" -o \
+      -name "*.jpeg" -o \
+      -name "*.tif" -o \
+      -name "*.png" -o \
+      -name "*.tiff" \
+  \) -a ! \
+  \( \
+    -path "*Collection Service Files*" -o \
+    -name "LMM_signed_photo.jpeg" -o \
+    -name "The_Cadre_logo.jpg" -o \
+    -name "*_TN.*" -o \
+    -name "*.service.*" -o \
+    -name "*.thumbnail.*" \
+  \) | parallel image_service "${TAG}"
 
 audio_service() {
   local tag="${1}"
