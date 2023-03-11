@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.5.5" timestamp="3/11/23, 1:42 AM">
+  <identification>
+    <identity format="JPEG EXIF" mimetype="image/jpeg" toolname="FITS" toolversion="1.5.5">
+      <tool toolname="file utility" toolversion="5.43" />
+      <tool toolname="Exiftool" toolversion="11.54" />
+      <version toolname="file utility" toolversion="5.43">012</version>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.20.1">1452308</size>
+    <filepath toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">/Users/nbanks/Projects/islandora/islandora_demo_objects/Simple Images/2341.jpeg</filepath>
+    <filename toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">2341.jpeg</filename>
+    <md5checksum toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">8e81ecc33f64f89703197331583761bb</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">1677878453445</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <imageWidth toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">1628</imageWidth>
+      <imageHeight toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">1036</imageHeight>
+      <YCbCrSubSampling toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">1 1</YCbCrSubSampling>
+      <bitsPerSample toolname="Exiftool" toolversion="11.54" status="SINGLE_RESULT">8 8 8</bitsPerSample>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="1293">
+    <tool toolname="MediaInfo" toolversion="[could not launch tool]" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.4" executionTime="221" />
+    <tool toolname="Jhove" toolversion="1.20.1" executionTime="1239" />
+    <tool toolname="file utility" toolversion="5.43" executionTime="1228" />
+    <tool toolname="Exiftool" toolversion="11.54" executionTime="1235" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" executionTime="1173" />
+    <tool toolname="OIS File Information" toolversion="1.0" executionTime="200" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="1088" />
+    <tool toolname="Tika" toolversion="1.21" executionTime="640" />
+  </statistics>
+</fits>
+

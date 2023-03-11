@@ -60,7 +60,7 @@ video_thumbnail() {
     - > "${dest}"
 }
 export -f video_thumbnail
-find "${PROGDIR}" -type f -name "*.mp4" | parallel video_thumbnail "${TAG}"
+find "${PROGDIR}" -type f -name "*.mp4" -a ! -name "*.service.*" | parallel video_thumbnail "${TAG}"
 
 image_service() {
   local tag="${1}"
@@ -168,10 +168,17 @@ find "${PROGDIR}" -type f \
       -name "*.pdf" -o \
       -name "*.pptx" -o \
       -name "*.tif" -o \
+      -name "*.jpeg" -o \
+      -name "*.png" -o \
       -name "*.tiff" -o \
       -name "*.xslx" \
   \) -a ! \
   \( \
-    -name "*.service.mp4" -o \
-    -name "*.service.mp3" \
+    -name "*_TN.*" -o \
+    -name "*.extracted.*" -o \
+    -name "*.service.*" -o \
+    -name "*.thumbnail.*" -o \
+    -name "LMM_signed_photo.jpeg" -o \
+    -name "The_Cadre_logo.jpg" -o \
+    -path "*Collection Service Files*" \
   \) | parallel fits "${TAG}"

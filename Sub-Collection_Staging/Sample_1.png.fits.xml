@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.5.5" timestamp="3/11/23, 1:27 AM">
+  <identification status="CONFLICT">
+    <identity format="Portable Network Graphics" mimetype="image/png" toolname="FITS" toolversion="1.5.5">
+      <tool toolname="Droid" toolversion="6.4" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.21" />
+      <version toolname="Droid" toolversion="6.4">1.2</version>
+      <externalIdentifier toolname="Droid" toolversion="6.4" type="puid">fmt/13</externalIdentifier>
+    </identity>
+    <identity format="PNG EXIF" mimetype="image/png" toolname="FITS" toolversion="1.5.5">
+      <tool toolname="Exiftool" toolversion="11.54" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <filepath toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">/Users/nbanks/Projects/islandora/islandora_demo_objects/Sub-Collection_Staging/Sample_1.png</filepath>
+    <filename toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">Sample_1.png</filename>
+    <size toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">2717134</size>
+    <md5checksum toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">248866564015c3fab155e62f2264d921</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="1.0" status="SINGLE_RESULT">1677878453475</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata>
+    <image>
+      <imageHeight toolname="Tika" toolversion="1.21" status="SINGLE_RESULT">1143</imageHeight>
+      <compressionScheme toolname="Tika" toolversion="1.21" status="SINGLE_RESULT">Deflate</compressionScheme>
+      <imageWidth toolname="Tika" toolversion="1.21" status="SINGLE_RESULT">1360</imageWidth>
+      <orientation toolname="Tika" toolversion="1.21" status="SINGLE_RESULT">normal*</orientation>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="1570">
+    <tool toolname="MediaInfo" toolversion="[could not launch tool]" status="failed" />
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Droid" toolversion="6.4" executionTime="279" />
+    <tool toolname="Jhove" toolversion="1.20.1" executionTime="1547" />
+    <tool toolname="file utility" toolversion="5.43" executionTime="923" />
+    <tool toolname="Exiftool" toolversion="11.54" executionTime="970" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="1.0" executionTime="273" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="872" />
+    <tool toolname="Tika" toolversion="1.21" executionTime="377" />
+  </statistics>
+</fits>
+
