@@ -105,6 +105,24 @@ audio_service() {
 export -f audio_service
 find "${PROGDIR}" -type f -name "*.mp3" -a -not -name "*.service.mp3"  | parallel audio_service "${TAG}"
 
+video_service() {
+  local tag="${1}"
+  local src="${2}"
+  local dest="${src}.service.mp4"
+  if [[ "${src}" -ot "${dest}" ]]; then
+    return 0
+  fi
+  docker run -i --rm -v "${src}:${src}" --entrypoint ffmpeg islandora/homarus:${tag} \
+    -i "${src}" \
+    -vcodec libx264 -preset medium -acodec aac \
+    -strict -2 -ab 128k -ac 2 -async 1 -movflags \
+    frag_keyframe+empty_moov \
+    -f mp4 \
+    - > "${dest}"
+}
+export -f video_service
+find "${PROGDIR}" -type f -name "*.mp4" -a -not -name "*.service.mp4"  | parallel video_service "${TAG}"
+
 extract_text_image() {
   local tag="${1}"
   local src="${2}"
