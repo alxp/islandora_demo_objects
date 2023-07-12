@@ -2,10 +2,14 @@ task: create
 host: "https://islandora.traefik.me"
 username: admin
 password: password
-input_csv: 'https://docs.google.com/spreadsheets/d/1DV0Ka0ZafZq3RgCn0x_AetFtlmnMuNFltzck2QL0ApY/edit?usp=sharing'
-google_sheets_gid: 994664908
+input_csv: '/path/to/islandora_demo_objects/create_demo_objects.csv'
 content_type: islandora_object
 subdelimiter: "|"
 allow_adding_terms: true
-input_dir: repo_islandora_demo_objects
+input_dir: '/path/to/islandora_demo_objects'
 ignore_csv_columns: ["Transcript", "Supplemental_PDF", "field_display_hints"]
+additional_files:
+ - extracted: DRUPAL_EXTRACTED_TERM_ID
+ - fits: DRUPAL_FITS_TERM_ID
+ - service: DRUPAL_SERVICE_TERM_ID
+ - thumbnail: DRUPAL_THUMBNAIL_TERM_ID
