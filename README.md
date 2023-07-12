@@ -16,7 +16,11 @@ The metadata is designed to work with the fields in the Islandora Starter Site. 
 
 ## Spreadsheet
 
-The enclosed .csv file is maintained in [Google Sheets](https://docs.google.com/spreadsheets/d/1DV0Ka0ZafZq3RgCn0x_AetFtlmnMuNFltzck2QL0ApY/edit#gid=2042408311) to make it easier to view and manipulate. Once edits are made, the main sheet must be downloaded as .csv, checked in to this repository, and then the nightly build of [Sandbox](https://github.com/Islandora-Devops/sandbox) will need to be updated to use the latest commit (see instructions in the Sandbox README). 
+The enclosed .csv file is maintained in [Google Sheets](https://docs.google.com/spreadsheets/d/1DV0Ka0ZafZq3RgCn0x_AetFtlmnMuNFltzck2QL0ApY/edit#gid=2042408311) to make it easier to view and manipulate. Once edits are made, the main sheet must be downloaded as .csv and checked in to this repository.
+
+## Updating the Sandbox
+
+The Islandora Sandbox will not automatically use newer versions of this repository. Any changes (to objects or metadata or configuration) must be checked into this repository, and the commit (as well as its hash) updated in the [Sandbox](https://github.com/Islandora-Devops/sandbox)'s repository. There are instructions for updating in the [README](https://github.com/Islandora-Devops/sandbox/blob/main/README.md#updating)https://github.com/Islandora-Devops/sandbox/blob/main/README.md#updating.
 
 
 
