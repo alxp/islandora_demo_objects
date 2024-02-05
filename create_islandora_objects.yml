@@ -8,6 +8,8 @@ subdelimiter: "|"
 allow_adding_terms: true
 input_dir: '/path/to/islandora_demo_objects'
 ignore_csv_columns: ["Transcript", "Supplemental_PDF", "field_display_hints"]
+field_text_format_ids:
+  - field_rights: full_html
 additional_files:
  - extracted: DRUPAL_EXTRACTED_TERM_ID
  - fits: DRUPAL_FITS_TERM_ID
