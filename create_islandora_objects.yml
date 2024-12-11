@@ -15,3 +15,6 @@ additional_files:
  - fits: https://projects.iq.harvard.edu/fits
  - service: http://pcdm.org/use#ServiceFile
  - thumbnail: http://pcdm.org/use#ThumbnailImage
+media_type_by_media_use:
+  - https://projects.iq.harvard.edu/fits: fits_technical_metadata
+
