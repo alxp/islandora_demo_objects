@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "wildflowersofwes0000mcca_Page_035.jp2"; bbox 0 0 1650 2609; ppageno 0; scan_res 300 300'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1568 959 1603 1487">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 1568 959 1603 1487">
+     <span class='ocr_caption' id='line_1_1' title="bbox 1568 959 1603 1487; baseline 105.6 -1372.8; x_size 41.25; x_descenders 7.5; x_ascenders 11.25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1568 959 1598 1072; x_wconf 74'>VIIVD</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1571 1095 1599 1190; x_wconf 38'>CIAL</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1573 1222 1603 1336; x_wconf 2'>&#39;WOAUY</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1580 1362 1603 1445; x_wconf 0'>AaLV</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1574 1453 1603 1487; x_wconf 17'>AL</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_2' title="bbox 0 0 1650 2609"></div>
+  </div>
+ </body>
+</html>
