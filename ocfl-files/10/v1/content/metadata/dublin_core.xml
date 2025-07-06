@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+<dc:title>Activities in the city of Toronto</dc:title>
+<dc:description>This sample dataset of activities in Toronto was downloaded from Toronto&apos;s Open Data Portal.</dc:description>
+<dc:rights>Open Government Licence – Toronto based on version 1.0 of the Open Government Licence – Ontario, which was developed through public consultation and a collaborative effort by the provincial and federal government. The only substantive changes in this licence are to replace direct references to the Province of Ontario with the City of Toronto and the inclusion of a provision for the Ontario Personal Health Information Protection Act, 2004. Additional information available at &lt;a rel=&quot;license&quot; href=&quot;https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/ &quot;&gt;Toronto Open Data Portal&lt;/a&gt;.</dc:rights>
+<dc:type>Dataset</dc:type>
+<dc:subject>Information and Knowledge Management</dc:subject>
+</metadata>

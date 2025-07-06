@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>alxp.ca Blog</title>
+  <subtitle>A feed of the latest posts from our blog.</subtitle>
+  <link href="https://islandty.alxp..ca//feed.xml" rel="self"/>
+  <link href="https://islandty.alxp..ca//"/>
+<updated>Sun, 06 Jul 2025 14:35:24 ADT</updated>
+
+  <id>https://islandty.alxp..ca/</id>
+  <author>
+    <name>Alexander and Rosie</name>
+    <email>aloneill@gmail.com</email>
+  </author>
+  
+</feed>

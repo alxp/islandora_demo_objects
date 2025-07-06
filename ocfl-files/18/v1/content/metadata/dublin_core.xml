@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+<dc:title>An excerpt from Noah Smith&apos;s presentation on Docker</dc:title>
+<dc:description>In the October 2021 Islandora Open Meeting, Born-Digital CEO Noah Smith gave this presentation on how to use Docker/ISLE.</dc:description>
+<dc:type>Moving Image</dc:type>
+<dc:subject>Islandora|subject:Docker</dc:subject>
+</metadata>

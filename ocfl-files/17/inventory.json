@@ -1,0 +1,39 @@
+{
+  "id": "17",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "0f6230a67d13b5081f5e6e877d1031ce11e9924aea004e78f2b568f4a0649b63c9ab54ef629e6b6a9d366d2c68c2a64c38f1be7bd3513155d4ff9aa3d3d660a2": [
+      "v1/content/Diane_HillOBJ.mp3"
+    ],
+    "4255216c0b1c35ceea10a5351cf258a2ea3efbc82e64e012e4465d6d817f95241066c6df78f74e075e911eaeb2fcf7645ea59e4256e3e4b43a0b94ead031c9ee": [
+      "v1/content/Diane_HillOBJ.mp3.service.mp3"
+    ],
+    "3454be249f6941aee152f4f7644a821788722bb5ba62b8dce8da58134caff949360d46104dde046e719f2d18b4e6fb70406f85fd04c0379317025339f30710d7": [
+      "v1/content/Transcript/subtitles/en/Diane_HillTRANSCRIPT.vtt"
+    ],
+    "53a296b18c614f60563ab90259bee3573c06eefa84ff48f4d7aff439c0525f639702644d737634b55de65d760536dbb31236be2428bfa7ecee9f0134d75438be": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:56.844Z",
+      "state": {
+        "0f6230a67d13b5081f5e6e877d1031ce11e9924aea004e78f2b568f4a0649b63c9ab54ef629e6b6a9d366d2c68c2a64c38f1be7bd3513155d4ff9aa3d3d660a2": [
+          "Diane_HillOBJ.mp3"
+        ],
+        "4255216c0b1c35ceea10a5351cf258a2ea3efbc82e64e012e4465d6d817f95241066c6df78f74e075e911eaeb2fcf7645ea59e4256e3e4b43a0b94ead031c9ee": [
+          "Diane_HillOBJ.mp3.service.mp3"
+        ],
+        "3454be249f6941aee152f4f7644a821788722bb5ba62b8dce8da58134caff949360d46104dde046e719f2d18b4e6fb70406f85fd04c0379317025339f30710d7": [
+          "Transcript/subtitles/en/Diane_HillTRANSCRIPT.vtt"
+        ],
+        "53a296b18c614f60563ab90259bee3573c06eefa84ff48f4d7aff439c0525f639702644d737634b55de65d760536dbb31236be2428bfa7ecee9f0134d75438be": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

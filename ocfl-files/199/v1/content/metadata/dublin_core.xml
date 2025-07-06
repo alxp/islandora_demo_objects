@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+<dc:title>Atlantic Canada Newspaper Survey - Dataset</dc:title>
+<dc:description>The Atlantic Canada Newspaper Survey (ACNS) project was designed to provide a machine-readable database of goods and services offered for sale in important east coast regional newspapers before 1900. This newspaper research database has as its focus nine broad categories of commodities based upon Statistics Canada’s “Trade of Canada Commodity Classification”. In the 1980s work on the database was supported by the Canadian Museum of Civilization. The project received SSHRC funding in 1986-1987 as part of its Research Tools Program. In June 2013, the Canadian Heritage Information Network was no longer able to host the database due to accessibility issues. CHIN exported the dataset and provided a copy to UPEI in the hopes that it would be useful.</dc:description>
+<dc:publisher>University of New Brunswick at Saint John|Prince Edward Island Museum and Heritage Foundation|Canadian Heritage Information Network|Canadian Museum of Civilization|Gorsebrook Research Institute, St. Mary’s University|Memorial University of Newfoundland|New Brunswick Museum, Saint John|Newfoundland Museum|Nova Scotia Museum, Halifax</dc:publisher>
+<dc:rights>&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nd/4.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot; src=&quot;https://licensebuttons.net/l/by-nd/4.0/88x31.png&quot; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&quot;license&quot; href=&quot;https://creativecommons.org/licenses/by-nd/4.0/&quot;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</dc:rights>
+<dc:identifier>10.11571/upei-roblib-data/researchdata:448</dc:identifier>
+<dc:type>Dataset</dc:type>
+<dc:date>2017-02-12</dc:date>
+<dc:subject>Museum And Gallery Studies|subject:Information and Knowledge Management</dc:subject>
+</metadata>

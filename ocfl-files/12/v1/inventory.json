@@ -1,0 +1,27 @@
+{
+  "id": "12",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "a6bbf852dfebfbcdda405bfccea8a4d992191ebb5ed4dafcfe9cc094c1d230bd34084f739a17462be963530ab1c39fd275508983303d61337b4c38d8321f5102": [
+      "v1/content/Islandora Content Modeler.pptx"
+    ],
+    "2d6cac41bbb9d7b573f6f9c1eaa7f4a680a4644d38dececa90db692d2506929ba6050169b70d05c2dc6b13ef6f6e1e8ff0a45ed808cb39d403e5f734359fd4f0": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:55.868Z",
+      "state": {
+        "a6bbf852dfebfbcdda405bfccea8a4d992191ebb5ed4dafcfe9cc094c1d230bd34084f739a17462be963530ab1c39fd275508983303d61337b4c38d8321f5102": [
+          "Islandora Content Modeler.pptx"
+        ],
+        "2d6cac41bbb9d7b573f6f9c1eaa7f4a680a4644d38dececa90db692d2506929ba6050169b70d05c2dc6b13ef6f6e1e8ff0a45ed808cb39d403e5f734359fd4f0": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

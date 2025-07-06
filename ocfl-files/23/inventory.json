@@ -1,0 +1,39 @@
+{
+  "id": "23",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "124ed00ac6f62951c5b3880b34d3a0728d29b39ac7148e323f4af87bbbc6fcee933713ff1f601532d6133ee75950997a9242de5c17f9db46b00a063262af9976": [
+      "v1/content/3553.jpeg"
+    ],
+    "aaf12fc8a532518b0608ca4932e20d6bf93562a89045b35599847a1c6a354ae22593779e1379da1f2ef83028c245276e8055e1a59a9ff70d4b10075439572112": [
+      "v1/content/3553.jpeg.service.jpg"
+    ],
+    "209f648938e3c7b6b14c1430e0632670715de901294b5c02ca0fba814aabd4afd5ec0fcd29e58142198c3a45fd42ca12b189c68e4effee26abaf65dfe3f4c4d4": [
+      "v1/content/3553.jpeg.thumbnail.jpg"
+    ],
+    "42ea888e2cdc869b263a119b3270fd60317fa6b5ffcb781419a13194e82145de72403b66e514b26b3c269c9bf7efa8f83ae6da95c1ddd2de523d97333b606980": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:57.752Z",
+      "state": {
+        "124ed00ac6f62951c5b3880b34d3a0728d29b39ac7148e323f4af87bbbc6fcee933713ff1f601532d6133ee75950997a9242de5c17f9db46b00a063262af9976": [
+          "3553.jpeg"
+        ],
+        "aaf12fc8a532518b0608ca4932e20d6bf93562a89045b35599847a1c6a354ae22593779e1379da1f2ef83028c245276e8055e1a59a9ff70d4b10075439572112": [
+          "3553.jpeg.service.jpg"
+        ],
+        "209f648938e3c7b6b14c1430e0632670715de901294b5c02ca0fba814aabd4afd5ec0fcd29e58142198c3a45fd42ca12b189c68e4effee26abaf65dfe3f4c4d4": [
+          "3553.jpeg.thumbnail.jpg"
+        ],
+        "42ea888e2cdc869b263a119b3270fd60317fa6b5ffcb781419a13194e82145de72403b66e514b26b3c269c9bf7efa8f83ae6da95c1ddd2de523d97333b606980": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

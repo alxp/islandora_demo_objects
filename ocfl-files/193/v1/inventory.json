@@ -1,0 +1,45 @@
+{
+  "id": "193",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "518e0c5c86e2f95371a5df31c6ed87c262c14ad80aaa39afeed50b8b60806254fe28fd122e6aa0d9f033b3ef8fad21fc3987d1d65ce2bb6b94bfee3da7e28185": [
+      "v1/content/1970_pg7.tiff"
+    ],
+    "17a3b30cffe720890b07b0760b6856dae0ad6316e76085ef97cd8747de4e5f3f5ba922ffe31eb75f71432a56f0e9e0ec6308d5fc7d783628e3907036fd12f1fe": [
+      "v1/content/1970_pg7.tiff.service.jpg"
+    ],
+    "635523221836b5188270ca641e172d2c7c404663f5a80187048cd224c19f1a26daa88ef884abe5279abb5f7173969053c2e3b2c74b36be9034889efbd48bb1a0": [
+      "v1/content/1970_pg7.tiff.thumbnail.jpg"
+    ],
+    "1a16d82a5c9f44a8f087b1cef029b6d918931c3e43b95b59c3445d4b8dfc99e18b6249fc28f6fa8edd6127047b0e8e9e64aaece81e0582563babd47707479db3": [
+      "v1/content/1970_pg7.tiff.extracted.txt"
+    ],
+    "ebda1d89d258021784245bc293c2316264e0cbce46f4892d62cbc155b209806021c2a48b0e0c3e28cca1ba0118149a6bb99c90c582a9056402179409d8578a4a": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:35:18.451Z",
+      "state": {
+        "518e0c5c86e2f95371a5df31c6ed87c262c14ad80aaa39afeed50b8b60806254fe28fd122e6aa0d9f033b3ef8fad21fc3987d1d65ce2bb6b94bfee3da7e28185": [
+          "1970_pg7.tiff"
+        ],
+        "17a3b30cffe720890b07b0760b6856dae0ad6316e76085ef97cd8747de4e5f3f5ba922ffe31eb75f71432a56f0e9e0ec6308d5fc7d783628e3907036fd12f1fe": [
+          "1970_pg7.tiff.service.jpg"
+        ],
+        "635523221836b5188270ca641e172d2c7c404663f5a80187048cd224c19f1a26daa88ef884abe5279abb5f7173969053c2e3b2c74b36be9034889efbd48bb1a0": [
+          "1970_pg7.tiff.thumbnail.jpg"
+        ],
+        "1a16d82a5c9f44a8f087b1cef029b6d918931c3e43b95b59c3445d4b8dfc99e18b6249fc28f6fa8edd6127047b0e8e9e64aaece81e0582563babd47707479db3": [
+          "1970_pg7.tiff.extracted.txt"
+        ],
+        "ebda1d89d258021784245bc293c2316264e0cbce46f4892d62cbc155b209806021c2a48b0e0c3e28cca1ba0118149a6bb99c90c582a9056402179409d8578a4a": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

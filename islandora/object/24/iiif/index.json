@@ -1,0 +1,2273 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "http://localhost:8080/islandora/object/24/iiif/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_001/wildflowersofwes0000mcca_Page_001.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_001"
+                  ]
+                },
+                "width": 1723,
+                "height": 2667,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_001/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_001"
+        ]
+      },
+      "width": 1723,
+      "height": 2667,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_001/wildflowersofwes0000mcca_Page_001.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_001/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_002/wildflowersofwes0000mcca_Page_002.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_002"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_002/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_002"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_002/wildflowersofwes0000mcca_Page_002.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_002/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_003/wildflowersofwes0000mcca_Page_003.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_003"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_003/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_003"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_003/wildflowersofwes0000mcca_Page_003.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_003/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_004/wildflowersofwes0000mcca_Page_004.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_004"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_004/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_004"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_004/wildflowersofwes0000mcca_Page_004.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_004/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_005/wildflowersofwes0000mcca_Page_005.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_005"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_005/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_005"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_005/wildflowersofwes0000mcca_Page_005.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_005/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_006/wildflowersofwes0000mcca_Page_006.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_006"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_006/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_006"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_006/wildflowersofwes0000mcca_Page_006.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_006/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_007/wildflowersofwes0000mcca_Page_007.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_007"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_007/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_007"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_007/wildflowersofwes0000mcca_Page_007.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_007/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/7",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/7/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_008/wildflowersofwes0000mcca_Page_008.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_008"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_008/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_008"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_008/wildflowersofwes0000mcca_Page_008.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_008/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/8",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/8/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_009/wildflowersofwes0000mcca_Page_009.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_009"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_009/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_009"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_009/wildflowersofwes0000mcca_Page_009.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_009/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/9",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/9/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_010/wildflowersofwes0000mcca_Page_010.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_010"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_010/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_010"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_010/wildflowersofwes0000mcca_Page_010.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_010/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/10",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/10/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_011/wildflowersofwes0000mcca_Page_011.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_011"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_011/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_011"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_011/wildflowersofwes0000mcca_Page_011.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_011/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/11",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/11/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_012/wildflowersofwes0000mcca_Page_012.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_012"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_012/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_012"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_012/wildflowersofwes0000mcca_Page_012.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_012/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/12",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/12/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_013/wildflowersofwes0000mcca_Page_013.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_013"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_013/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_013"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_013/wildflowersofwes0000mcca_Page_013.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_013/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/13",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/13/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_014/wildflowersofwes0000mcca_Page_014.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_014"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_014/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_014"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_014/wildflowersofwes0000mcca_Page_014.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_014/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/14",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/14/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/14/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_015/wildflowersofwes0000mcca_Page_015.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_015"
+                  ]
+                },
+                "width": 1621,
+                "height": 2625,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_015/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/14"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_015"
+        ]
+      },
+      "width": 1621,
+      "height": 2625,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_015/wildflowersofwes0000mcca_Page_015.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_015/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/15",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/15/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/15/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_016/wildflowersofwes0000mcca_Page_016.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_016"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_016/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/15"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_016"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_016/wildflowersofwes0000mcca_Page_016.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_016/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/16",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/16/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/16/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_017/wildflowersofwes0000mcca_Page_017.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_017"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_017/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/16"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_017"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_017/wildflowersofwes0000mcca_Page_017.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_017/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/17",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/17/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/17/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_018/wildflowersofwes0000mcca_Page_018.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_018"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_018/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/17"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_018"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_018/wildflowersofwes0000mcca_Page_018.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_018/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/18",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/18/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/18/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_019/wildflowersofwes0000mcca_Page_019.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_019"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_019/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/18"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_019"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_019/wildflowersofwes0000mcca_Page_019.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_019/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/19",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/19/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/19/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_020/wildflowersofwes0000mcca_Page_020.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_020"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_020/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/19"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_020"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_020/wildflowersofwes0000mcca_Page_020.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_020/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/20",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/20/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/20/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_021/wildflowersofwes0000mcca_Page_021.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_021"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_021/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/20"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_021"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_021/wildflowersofwes0000mcca_Page_021.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_021/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/21",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/21/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/21/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_022/wildflowersofwes0000mcca_Page_022.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_022"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_022/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/21"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_022"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_022/wildflowersofwes0000mcca_Page_022.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_022/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/22",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/22/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/22/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_023/wildflowersofwes0000mcca_Page_023.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_023"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_023/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/22"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_023"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_023/wildflowersofwes0000mcca_Page_023.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_023/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/23",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/23/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/23/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_024/wildflowersofwes0000mcca_Page_024.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_024"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_024/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/23"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_024"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_024/wildflowersofwes0000mcca_Page_024.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_024/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/24",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/24/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/24/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_025/wildflowersofwes0000mcca_Page_025.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_025"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_025/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/24"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_025"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_025/wildflowersofwes0000mcca_Page_025.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_025/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/25",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/25/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/25/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_026/wildflowersofwes0000mcca_Page_026.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_026"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_026/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/25"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_026"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_026/wildflowersofwes0000mcca_Page_026.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_026/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/26",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/26/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/26/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_027/wildflowersofwes0000mcca_Page_027.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_027"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_027/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/26"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_027"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_027/wildflowersofwes0000mcca_Page_027.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_027/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/27",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/27/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/27/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_028/wildflowersofwes0000mcca_Page_028.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_028"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_028/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/27"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_028"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_028/wildflowersofwes0000mcca_Page_028.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_028/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/28",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/28/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/28/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_029/wildflowersofwes0000mcca_Page_029.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_029"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_029/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/28"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_029"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_029/wildflowersofwes0000mcca_Page_029.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_029/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/29",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/29/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/29/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_030/wildflowersofwes0000mcca_Page_030.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_030"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_030/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/29"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_030"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_030/wildflowersofwes0000mcca_Page_030.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_030/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/30",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/30/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/30/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_031/wildflowersofwes0000mcca_Page_031.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_031"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_031/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/30"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_031"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_031/wildflowersofwes0000mcca_Page_031.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_031/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/31",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/31/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/31/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_032/wildflowersofwes0000mcca_Page_032.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_032"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_032/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/31"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_032"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_032/wildflowersofwes0000mcca_Page_032.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_032/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/32",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/32/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/32/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_033/wildflowersofwes0000mcca_Page_033.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_033"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_033/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/32"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_033"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_033/wildflowersofwes0000mcca_Page_033.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_033/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/33",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/33/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/33/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_034/wildflowersofwes0000mcca_Page_034.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_034"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_034/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/33"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_034"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_034/wildflowersofwes0000mcca_Page_034.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_034/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/34",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/34/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/34/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_035/wildflowersofwes0000mcca_Page_035.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_035"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_035/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/34"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_035"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_035/wildflowersofwes0000mcca_Page_035.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_035/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/35",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/35/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/35/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_036/wildflowersofwes0000mcca_Page_036.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_036"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_036/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/35"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_036"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_036/wildflowersofwes0000mcca_Page_036.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_036/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/36",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/36/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/36/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_037/wildflowersofwes0000mcca_Page_037.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_037"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_037/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/36"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_037"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_037/wildflowersofwes0000mcca_Page_037.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_037/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/37",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/37/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/37/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_038/wildflowersofwes0000mcca_Page_038.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_038"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_038/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/37"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_038"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_038/wildflowersofwes0000mcca_Page_038.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_038/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/38",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/38/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/38/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_039/wildflowersofwes0000mcca_Page_039.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_039"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_039/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/38"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_039"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_039/wildflowersofwes0000mcca_Page_039.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_039/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/39",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/39/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/39/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_040/wildflowersofwes0000mcca_Page_040.jp2",
+                "type": "Image",
+                "format": "image/jp2",
+                "label": {
+                  "@none": [
+                    "_wildflowersofwes0000mcca_Page_040"
+                  ]
+                },
+                "width": 1650,
+                "height": 2609,
+                "service": [
+                  {
+                    "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_040/+tiles",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://localhost:8080/islandora/object/24/iiif/index.json/canvas/39"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_wildflowersofwes0000mcca_Page_040"
+        ]
+      },
+      "width": 1650,
+      "height": 2609,
+      "seeAlso": {
+        "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_040/wildflowersofwes0000mcca_Page_040.hocr",
+        "format": "text/vnd.hocr+html",
+        "profile": "http://kba.cloud/hocr-spec",
+        "label": "hOCR embedded text"
+      },
+      "thumbnail": [
+        {
+          "id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_040/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "Excerpt from 'Wild flowers of Western Canada'"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "@none": [
+          "license"
+        ]
+      },
+      "value": {
+        "@none": [
+          "Free eBook from the <a rel=\"license\" href=\"https://archive.org/details/wildflowersofwes00mccauoft/page/12/mode/2up \">Internet Archive</a>. "
+        ]
+      }
+    }
+  ],
+  "description": "Excerpt from 'Wild flowers of Western Canada' with 60 plates from original photographs by the William Copeland McCalla.",
+  "behavior": [
+    "paged"
+  ]
+}

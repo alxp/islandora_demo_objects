@@ -1,0 +1,69 @@
+{
+  "id": "181",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "0ede9360cf8d2193619d0f9ffd6049d26163b84492bfb64f8c7e1c7e16ceb6b41801089e87a885ea17c178ef9b31547c62ea185ba239c338e14cf954ce9a992c": [
+      "v1/content/Newspaper_Sample_2_TN.png"
+    ],
+    "1253b5beb4287d8fe05b56908cc74621ee3c7faad5d57d1b26e118d38036a40cb2ef6feeb4321e3dbaaea7288a6424f43646ac35d19a1d72e36960338ed5003e": [
+      "v1/content/pages/0000_Page_1.tiff"
+    ],
+    "5ff0db607e63fcd30622e9bb077fc231f2098d99ca8e2e188198d402c54b5ed4b2f2b645c22b16df48b304f30085f72b84f1c4783edb800057b29f0a19542f11": [
+      "v1/content/pages/0000_Page_1.hocr"
+    ],
+    "76b56f9b4388abb9d6a0a3515ad51b0b7198ae6d3bea106075204a8bf43d1a263283e874f097fc262e9c9e5ff8970e4654570caafa05bf7c2943f858b859d65b": [
+      "v1/content/pages/0001_Page_2.tiff"
+    ],
+    "37b5e5db12f2ba3bce8d265c77b113ef9c79ceaa73c7d03da2779163d8fef6fc39c82f486bc70e1cb545d6f35e8b8f16fce7d9b9d0e099682f1ba22967ffe313": [
+      "v1/content/pages/0001_Page_2.hocr"
+    ],
+    "07f1608a8d5d246ac6031fbe173ff0a1d11fe8f3e2a384537506fd023462537e8bfbdc4c92e6330e84fc301db14503ad811a7ec399df9e4063f5877d8d70431b": [
+      "v1/content/pages/0002_Page_3.tiff"
+    ],
+    "d1309043fc2af2d092503b09b074ac7dd952037b46633028270f1ec7c4dea8c496478461ff8a028aaa1b32cc8194d3a0cdac059701b471b7e158b955a24718ef": [
+      "v1/content/pages/0002_Page_3.hocr"
+    ],
+    "709055dde494d23c304bdec5a30cead942a16811912e7249bc98fd21ac9e7f57d4dcc2f10cdd2d99540a2db5ee0bc910d09dca5ce4194bf7ee1f0e3906a2e193": [
+      "v1/content/pages/0003_Page_4.tiff"
+    ],
+    "01fa80bd2818139f4e98a7586bc917bb13bf605ac1718d3b1b28ae0712dac11e617ae3719431ab20fa7549cd4ff96b05033d0e1431556cb1ac3fc3587a006f9b": [
+      "v1/content/pages/0003_Page_4.hocr"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:35:10.214Z",
+      "state": {
+        "0ede9360cf8d2193619d0f9ffd6049d26163b84492bfb64f8c7e1c7e16ceb6b41801089e87a885ea17c178ef9b31547c62ea185ba239c338e14cf954ce9a992c": [
+          "Newspaper_Sample_2_TN.png"
+        ],
+        "1253b5beb4287d8fe05b56908cc74621ee3c7faad5d57d1b26e118d38036a40cb2ef6feeb4321e3dbaaea7288a6424f43646ac35d19a1d72e36960338ed5003e": [
+          "pages/0000_Page_1.tiff"
+        ],
+        "5ff0db607e63fcd30622e9bb077fc231f2098d99ca8e2e188198d402c54b5ed4b2f2b645c22b16df48b304f30085f72b84f1c4783edb800057b29f0a19542f11": [
+          "pages/0000_Page_1.hocr"
+        ],
+        "76b56f9b4388abb9d6a0a3515ad51b0b7198ae6d3bea106075204a8bf43d1a263283e874f097fc262e9c9e5ff8970e4654570caafa05bf7c2943f858b859d65b": [
+          "pages/0001_Page_2.tiff"
+        ],
+        "37b5e5db12f2ba3bce8d265c77b113ef9c79ceaa73c7d03da2779163d8fef6fc39c82f486bc70e1cb545d6f35e8b8f16fce7d9b9d0e099682f1ba22967ffe313": [
+          "pages/0001_Page_2.hocr"
+        ],
+        "07f1608a8d5d246ac6031fbe173ff0a1d11fe8f3e2a384537506fd023462537e8bfbdc4c92e6330e84fc301db14503ad811a7ec399df9e4063f5877d8d70431b": [
+          "pages/0002_Page_3.tiff"
+        ],
+        "d1309043fc2af2d092503b09b074ac7dd952037b46633028270f1ec7c4dea8c496478461ff8a028aaa1b32cc8194d3a0cdac059701b471b7e158b955a24718ef": [
+          "pages/0002_Page_3.hocr"
+        ],
+        "709055dde494d23c304bdec5a30cead942a16811912e7249bc98fd21ac9e7f57d4dcc2f10cdd2d99540a2db5ee0bc910d09dca5ce4194bf7ee1f0e3906a2e193": [
+          "pages/0003_Page_4.tiff"
+        ],
+        "01fa80bd2818139f4e98a7586bc917bb13bf605ac1718d3b1b28ae0712dac11e617ae3719431ab20fa7549cd4ff96b05033d0e1431556cb1ac3fc3587a006f9b": [
+          "pages/0003_Page_4.hocr"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

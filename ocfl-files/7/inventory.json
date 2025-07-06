@@ -1,0 +1,27 @@
+{
+  "id": "7",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "5da04a60623d9f5fc0f013d7f7be0b8d6eaed85b54a70a8c4bf66d107f6d1ec0675f72bbb03d34909a28bb5fcce0afee77d2704b6b7ab956aa6e1d0eed0f86cf": [
+      "v1/content/newspaper_collection.png"
+    ],
+    "988767010f1f63b49589b6a6fd75954871a8391be087ec5d8db6c09c06af6b33a40f8f1ef1d42fe4062f63a2e020244a0cb1fca1c121aae840614327112e8404": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:55.736Z",
+      "state": {
+        "5da04a60623d9f5fc0f013d7f7be0b8d6eaed85b54a70a8c4bf66d107f6d1ec0675f72bbb03d34909a28bb5fcce0afee77d2704b6b7ab956aa6e1d0eed0f86cf": [
+          "newspaper_collection.png"
+        ],
+        "988767010f1f63b49589b6a6fd75954871a8391be087ec5d8db6c09c06af6b33a40f8f1ef1d42fe4062f63a2e020244a0cb1fca1c121aae840614327112e8404": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

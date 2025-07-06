@@ -1,0 +1,39 @@
+{
+  "id": "29",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "de9cba9df903e7b3b14d238925f5e8fbd7f2050c82eccfa9ddecbbcf5765122bc8a319fe58a630b7ba35dedbb0a817192bbbeabc37f65be57ae19007a916f72e": [
+      "v1/content/wildflowersofwes0000mcca_Page_005.jp2"
+    ],
+    "5734ebb4fbeac5e5c5140bb63fed00f8cb9ad55b0ef505917c68eb5b7f6c722a346f0578fb92c9f54bcc3773d00c8cab6941a226703e2b72b9293bb4cdda5813": [
+      "v1/content/wildflowersofwes0000mcca_Page_005.jp2.service.jpg"
+    ],
+    "9c5e3cc4e28e297f83c0c17220aac43a213257492f36da7d91138523f0248b88df4a77fabcf8384dd45c3cb2b97520eccfe747b015d9d93344fe4efc59df3893": [
+      "v1/content/wildflowersofwes0000mcca_Page_005.jp2.thumbnail.jpg"
+    ],
+    "146ffba99d3e1241d14e42cc5a2171c9bcdf9a2831f9312101d4a8b8589d9c5b4602e865999e441e7168aff34535fa656a017cb866d0b76f0d382f0395e1ced0": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:35:07.670Z",
+      "state": {
+        "de9cba9df903e7b3b14d238925f5e8fbd7f2050c82eccfa9ddecbbcf5765122bc8a319fe58a630b7ba35dedbb0a817192bbbeabc37f65be57ae19007a916f72e": [
+          "wildflowersofwes0000mcca_Page_005.jp2"
+        ],
+        "5734ebb4fbeac5e5c5140bb63fed00f8cb9ad55b0ef505917c68eb5b7f6c722a346f0578fb92c9f54bcc3773d00c8cab6941a226703e2b72b9293bb4cdda5813": [
+          "wildflowersofwes0000mcca_Page_005.jp2.service.jpg"
+        ],
+        "9c5e3cc4e28e297f83c0c17220aac43a213257492f36da7d91138523f0248b88df4a77fabcf8384dd45c3cb2b97520eccfe747b015d9d93344fe4efc59df3893": [
+          "wildflowersofwes0000mcca_Page_005.jp2.thumbnail.jpg"
+        ],
+        "146ffba99d3e1241d14e42cc5a2171c9bcdf9a2831f9312101d4a8b8589d9c5b4602e865999e441e7168aff34535fa656a017cb866d0b76f0d382f0395e1ced0": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

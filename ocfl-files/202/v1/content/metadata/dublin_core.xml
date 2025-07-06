@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+<dc:title>Sample Simple Image without Cataloguing</dc:title>
+<dc:description>This is an uncatalogued image used to demonstrate editorial workflows around cataloguing.</dc:description>
+<dc:rights>Provided to demonstrate function of Islandora only. All rights reserved.</dc:rights>
+<dc:type>Still Image</dc:type>
+</metadata>

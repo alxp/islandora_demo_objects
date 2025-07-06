@@ -1,0 +1,45 @@
+{
+  "id": "19",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "ba1530d14ecafe557895bf173866492f80e3334ceddb5c98acbc400be24a7c0d220af87b499d7cf2b10c6a1a0970bd82426eb6316d356ee1a48f582eb438ae81": [
+      "v1/content/Tamil_Video.mp4"
+    ],
+    "671d9696eb7ae6ec250ed5cc2bd073dcbb933f2406288c068e472e6294befdcae5c75c0f53e66e6451f5c9a17b74d2216187974540a57bcba14572ad1bfdd8bd": [
+      "v1/content/Tamil_Video.mp4.service.mp4"
+    ],
+    "8c8a3c06244ae5ecb50d8ec6de62ba20d3405c1c23719615015e543154a78e8f51b5e0e5c8eaeac8fe671eea479d73589712caa2a9fae7e4deca49fc17ce3224": [
+      "v1/content/Tamil_Video.mp4.thumbnail.png"
+    ],
+    "183fd253edf7621a11013e0de520b6077b1bee371706720e07e57ebd7d13e8174064f42b0636623508eb110deae1f798b20825b72c6a498db197361cd32a5cfb": [
+      "v1/content/Transcript/subtitles/en/Tamil_Video_TRANSCRIPT.vtt"
+    ],
+    "caccae329d6a74e7aa47ebd748a39971174bcad7328b0a4a83983f2fd14c571cc3178ba398362a459e1f378524b5a6856ced16bde0d4b64226898155d7e78598": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:57.657Z",
+      "state": {
+        "ba1530d14ecafe557895bf173866492f80e3334ceddb5c98acbc400be24a7c0d220af87b499d7cf2b10c6a1a0970bd82426eb6316d356ee1a48f582eb438ae81": [
+          "Tamil_Video.mp4"
+        ],
+        "671d9696eb7ae6ec250ed5cc2bd073dcbb933f2406288c068e472e6294befdcae5c75c0f53e66e6451f5c9a17b74d2216187974540a57bcba14572ad1bfdd8bd": [
+          "Tamil_Video.mp4.service.mp4"
+        ],
+        "8c8a3c06244ae5ecb50d8ec6de62ba20d3405c1c23719615015e543154a78e8f51b5e0e5c8eaeac8fe671eea479d73589712caa2a9fae7e4deca49fc17ce3224": [
+          "Tamil_Video.mp4.thumbnail.png"
+        ],
+        "183fd253edf7621a11013e0de520b6077b1bee371706720e07e57ebd7d13e8174064f42b0636623508eb110deae1f798b20825b72c6a498db197361cd32a5cfb": [
+          "Transcript/subtitles/en/Tamil_Video_TRANSCRIPT.vtt"
+        ],
+        "caccae329d6a74e7aa47ebd748a39971174bcad7328b0a4a83983f2fd14c571cc3178ba398362a459e1f378524b5a6856ced16bde0d4b64226898155d7e78598": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "d6d367a04cdeaaebe6c57dd3724c71e07edddff8fd9eb480a2f26961f789a2fea255f500a706ee33afa5a27fadf995945c9b3b19fe555d86c523fc20c15d8107": [
+      "v1/content/Book_Collection.png"
+    ],
+    "ad42f01a0c4080fa0c68f4c6a19025e5e93597cd4a53b08d37c433a529d0b2ff02d332d6b04ee6d5e5be1187b2be62b187c43573f9d993b18bbb9381ccadaf3b": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:55.706Z",
+      "state": {
+        "d6d367a04cdeaaebe6c57dd3724c71e07edddff8fd9eb480a2f26961f789a2fea255f500a706ee33afa5a27fadf995945c9b3b19fe555d86c523fc20c15d8107": [
+          "Book_Collection.png"
+        ],
+        "ad42f01a0c4080fa0c68f4c6a19025e5e93597cd4a53b08d37c433a529d0b2ff02d332d6b04ee6d5e5be1187b2be62b187c43573f9d993b18bbb9381ccadaf3b": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

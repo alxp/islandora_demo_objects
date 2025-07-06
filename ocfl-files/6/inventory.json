@@ -1,0 +1,27 @@
+{
+  "id": "6",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "920abf6a86313761ec960119236c2a066ad253f0f09f476e6886ac341dbf7ebee302d0ce0cf84dbabe6af49a61935e609cb06f5821573d090382eca3617ab040": [
+      "v1/content/Simple_Image.png"
+    ],
+    "ad7965d4fcd626043779588986a346a329e0d09b64e02497ce10012deb954c7a1f072186f5262c0965cec4706f0c924a16889ceec720ece21e246f22fe54fdb8": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:55.732Z",
+      "state": {
+        "920abf6a86313761ec960119236c2a066ad253f0f09f476e6886ac341dbf7ebee302d0ce0cf84dbabe6af49a61935e609cb06f5821573d090382eca3617ab040": [
+          "Simple_Image.png"
+        ],
+        "ad7965d4fcd626043779588986a346a329e0d09b64e02497ce10012deb954c7a1f072186f5262c0965cec4706f0c924a16889ceec720ece21e246f22fe54fdb8": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

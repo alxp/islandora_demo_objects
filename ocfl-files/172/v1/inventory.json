@@ -1,0 +1,27 @@
+{
+  "id": "172",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "5aa20904296e9317a17c99983bc372c1ea34c4a8e584468d3a672a8f56f5e065bb485e56495fa627417c866f023ee5aa5d13b6b9d3ed992a796599559fc575e1": [
+      "v1/content/Postcard_TN.png"
+    ],
+    "9a0a424d4e8bb5d1250a4d30345b679fbda6653d59086910d3f9d4eb9d9cfdd28747d7387cf728a1ead867180f61801b60e611ea69bed1498cdfb959221060a2": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:35:07.999Z",
+      "state": {
+        "5aa20904296e9317a17c99983bc372c1ea34c4a8e584468d3a672a8f56f5e065bb485e56495fa627417c866f023ee5aa5d13b6b9d3ed992a796599559fc575e1": [
+          "Postcard_TN.png"
+        ],
+        "9a0a424d4e8bb5d1250a4d30345b679fbda6653d59086910d3f9d4eb9d9cfdd28747d7387cf728a1ead867180f61801b60e611ea69bed1498cdfb959221060a2": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd">
+<dc:title>Large Image Collection</dc:title>
+<dc:description>This collection demonstrates the look, feel, and behaviour of large (zoomable) images in Islandora.</dc:description>
+<dc:rights>This collection and its contents are provided as a demonstration of the capabilities of Islandora. All rights and pre-existing licensing hold for the contents of this collection.</dc:rights>
+<dc:type>Collection</dc:type>
+</metadata>

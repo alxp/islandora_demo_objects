@@ -1,0 +1,507 @@
+{
+  "id": "24",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "7220d0bc3f11e990c8bddf987dc1fcda8bd501c6b39acbed8ff5b5b48e1d410dcc673ce1e12e74418d7b254ed1ba76a2e5740079a08ef4fa1e441e9cd12d9d6e": [
+      "v1/content/Wildflowers_TN.png"
+    ],
+    "ecb8bbbb8d7b976b9b54f2134319d89768ea531fb29b0f29b5c8e3358cf3fb2a62e9efe75380110265282a527033237dd7da8a6a3c5be95e27295c02ae35ffaa": [
+      "v1/content/wildflowersofwes0000mcca.pdf.extracted.txt"
+    ],
+    "274f41b3e495d471b70c9eb2f7edcebab1a90c73c9156e2b26f98e903617c2d23ce57d5735ba91fd36e3246c7c4b03812868b5c2a6802600d0f36479795ec32c": [
+      "v1/content/pages/0000_wildflowersofwes0000mcca_Page_001.jp2"
+    ],
+    "38831720edd697b1d0a553d90e668a30d0153c3a5f4382308311547fd9c4d3514c60bfc44b1e019e662c526c4c147b608b7ac39a63900033ad744ed31a3ac23d": [
+      "v1/content/pages/0000_wildflowersofwes0000mcca_Page_001.hocr"
+    ],
+    "89f8f698ed1723daf75f04dcd1c58baa68ab6e291db81017649b53f9d097bbd66b02af9f8bb4fcf65e803ac37cb56c8d8d7ba04eb2a28753e85757e154ac94cc": [
+      "v1/content/pages/0001_wildflowersofwes0000mcca_Page_002.jp2"
+    ],
+    "d1c666569fc1b970a837d71e6de4346a805ee02e122ae3aaab2f61a8a4e25c3b3afdeb877691bce2244c3b04d048786bf5cf070c80bcefc7c75c6fa512e5d0bb": [
+      "v1/content/pages/0001_wildflowersofwes0000mcca_Page_002.hocr"
+    ],
+    "815f775c47db85b8220f5305c2191edace772a1804d6474f37616ba5c692a448f48a8a691f40818583716e89c3359da0b759c99ed6a10761bb33cd6383e3d4aa": [
+      "v1/content/pages/0002_wildflowersofwes0000mcca_Page_003.jp2"
+    ],
+    "4266908558242016ce8314b487610c2f55234e8064400f58bac0d8824ceb7e724bf28996fd144f1ece0913436e23ac2de96a787ccfeae53bc504a0ddd2b95e15": [
+      "v1/content/pages/0002_wildflowersofwes0000mcca_Page_003.hocr"
+    ],
+    "b1d700001dcceedc68d4defea4e012d72bf03ccd7b087b3d16d2a1e825653cba6bf85f83406ae5f0d37a76edff603163e6b674aad70b4fb015b71941d80564fc": [
+      "v1/content/pages/0003_wildflowersofwes0000mcca_Page_004.jp2"
+    ],
+    "e271bca7f3173b67e9640d46a7bfa3fae04aa73fc179f1f8773151e7736f60d23345cb17d82ad8e3f17a8ae50d6dffaa358bdcae2bd2214d1d15c5dd67909f58": [
+      "v1/content/pages/0003_wildflowersofwes0000mcca_Page_004.hocr"
+    ],
+    "de9cba9df903e7b3b14d238925f5e8fbd7f2050c82eccfa9ddecbbcf5765122bc8a319fe58a630b7ba35dedbb0a817192bbbeabc37f65be57ae19007a916f72e": [
+      "v1/content/pages/0004_wildflowersofwes0000mcca_Page_005.jp2"
+    ],
+    "00f6e7ff667888b8b58bc5cc893c580d1324fa8d70e10b8fd1cb39ab0874862d6abac37955c7b4b33c085405a85527d4d658b7cdf40b74ba38b66d29513279be": [
+      "v1/content/pages/0004_wildflowersofwes0000mcca_Page_005.hocr"
+    ],
+    "8aba1de60b30d9a9c595fd3d82cf246f730cd357c5f8a4f0f789c8a899fdd0600ac3beed55ce98e26ee97fe37bdb911b43c4438d37313689cfb04051010fdc0b": [
+      "v1/content/pages/0005_wildflowersofwes0000mcca_Page_006.jp2"
+    ],
+    "0229591a4be07b37c184d2799667ef22f3465aad1a35ef1b67b8ba70ab10a3dbacbf9b63e4d4e46aee60ce45f330dfb1cb3340e48fe15c8cf7fbc3deb90ed7aa": [
+      "v1/content/pages/0005_wildflowersofwes0000mcca_Page_006.hocr"
+    ],
+    "ee37727a33d9c95effdd49b92c17c7ee750a6e42e24f10b415dd46598be66b07c3c6aae07774bd5d753aa4fadcdbfd3bcb650910488762cc9ba5e7e9c6e25cbd": [
+      "v1/content/pages/0006_wildflowersofwes0000mcca_Page_007.jp2"
+    ],
+    "a64cae4dc18e69e6c9b1fff0458ecedc28439255d5ec28913389327cb26a21540d0b8b76dd83b382c5b87fc6a85526aa01fa6c485cb3ef171854d2346d3a25d0": [
+      "v1/content/pages/0006_wildflowersofwes0000mcca_Page_007.hocr"
+    ],
+    "94beed9ca88794a567d731ba04fa09c0b9ed4c3b68f3e62911d426a3fbcf1298a194e06812de4b111c1ebe0c8e34dc760865354584c97e65ad0daa11c149e1ee": [
+      "v1/content/pages/0007_wildflowersofwes0000mcca_Page_008.jp2"
+    ],
+    "df1fcbb7f245b9b77ec7d7e74b2fa0c62beebe01164f4d5b504c0430548e84a216478c7e176e09dde84e957d4a2c8eb44eb9248002e29bc2f0d68cc399d43344": [
+      "v1/content/pages/0007_wildflowersofwes0000mcca_Page_008.hocr"
+    ],
+    "18887dca2e187934611bbda8c76ea19a9503107a948df491969f169009c401621f12adfb2beb16fd897b0a9859e5c20e4b0e01289e878bc2517c522dd0b31be9": [
+      "v1/content/pages/0008_wildflowersofwes0000mcca_Page_009.jp2"
+    ],
+    "a3c28ef5ea6815dad3adf060bb0cc26aaf46be0e064ec32a8492289f4e640b6e99ea3f6dd71c7e5047b73e69598c75625dea7e0b90dc335df5972b9cd3cc0767": [
+      "v1/content/pages/0008_wildflowersofwes0000mcca_Page_009.hocr"
+    ],
+    "7fe97d3522401a2282f0049dbaf1541fcaa4173670dd8c7960df074b9fc3af0e51b793223577001c719c7c974e597311153203f9f3b38499274778853f1b0bbb": [
+      "v1/content/pages/0009_wildflowersofwes0000mcca_Page_010.jp2"
+    ],
+    "d51c3bad270bdc637c98be250ebfbb7c3151874879df86e4d917460f4d1ac3a864824ead437a0e25129d7490177fcba3e3b4b18a8b285a769bdb5d67f2ff1c7e": [
+      "v1/content/pages/0009_wildflowersofwes0000mcca_Page_010.hocr"
+    ],
+    "c1749f5df283696d859cd47a958def5a6ef7dced9a0c28ec7a6da7e89e230e47832979f326cb3852634e124bc95e232931dab7ed82e5fbdb005bc0d544091ba2": [
+      "v1/content/pages/0010_wildflowersofwes0000mcca_Page_011.jp2"
+    ],
+    "c6f19e398fcd7107edb5764eaa51c18119915263813abd2b17bf3b243d9433fc0b67c81a4be0fcd4352fb9a507656e6705222c1fde3c4852981a8afc5a394e20": [
+      "v1/content/pages/0010_wildflowersofwes0000mcca_Page_011.hocr"
+    ],
+    "11b4846960cb165f56017a4bbb2d965fd02a26506075e0ce81659ec6b58941237d5d22bc0e89a734258fc377af0603da9b5600651d6e3f2415d5b98fb7ec357b": [
+      "v1/content/pages/0011_wildflowersofwes0000mcca_Page_012.jp2"
+    ],
+    "762c701e457d0e630dfba73c7305965a7a6ab04c1da93deff4305608a5f1fbf4c51b633eea2e1e84d57d65b150d8ee8f9dac30370038c210ce57169e12987deb": [
+      "v1/content/pages/0011_wildflowersofwes0000mcca_Page_012.hocr"
+    ],
+    "3aab7df9e26de72847e1f2ff469c19977a0265c68419267daf002d93d6d7e5a31567a6e662d4436217ce44da9613143fcaa96d17748dedaaca1e222aae3f493d": [
+      "v1/content/pages/0012_wildflowersofwes0000mcca_Page_013.jp2"
+    ],
+    "cf54439d535b9ad73f2fe7c0e47cfdbf2c92a786f7ec962af17814f3c6a289e51989d517bdcf183625c289b1b373998ccc13fdff054ea2bfeb54a2339a1a85b6": [
+      "v1/content/pages/0012_wildflowersofwes0000mcca_Page_013.hocr"
+    ],
+    "2f8dd5ee65545ee19d33cb09cb7108cfb59eda48f5cd483df4e7aab24fddd0a0dfe7875cd605304138c48a7317fd51e21234db60f20ecc615b401dcedcc3d206": [
+      "v1/content/pages/0013_wildflowersofwes0000mcca_Page_014.jp2"
+    ],
+    "813ee0f55a43a3f1b993aaa27b2b284e5ada2c22fc61c9701e0ccfbba11a42595eb2b0c8eb7798b3554648395e563983e9da431144ba69259225dec00294b7a8": [
+      "v1/content/pages/0013_wildflowersofwes0000mcca_Page_014.hocr"
+    ],
+    "68bafc209011b6861897661932748a660c7e0ead823a8b38aa47a0607c5ea71ff0dac8fe041627dba2742f3723295887ab0e867e381b31033f01c9fd8d0253ad": [
+      "v1/content/pages/0014_wildflowersofwes0000mcca_Page_015.jp2"
+    ],
+    "2a22a8b17bef980a76b00abb21319209bd67fc3221360c89f4f3af5c660ed01d5c47eb2876d3f2d0c1571e519389f2112ceeb736d7581d45ae72a89018029ecf": [
+      "v1/content/pages/0014_wildflowersofwes0000mcca_Page_015.hocr"
+    ],
+    "24cef7bbc716fd72bd194b974b7c71c1c138ec9988fc7b257ebb135645d8ec95d3b757db75230b6e763e9efe909cd3f4c2bf4364003b6056881b13eba9a45838": [
+      "v1/content/pages/0015_wildflowersofwes0000mcca_Page_016.jp2"
+    ],
+    "4742a92337e632c433fd56e93e499935f237006cc92956b1b1fd9524d5c58b8d81e14e9f6df014b2b7d7e6a96ba593611c9660131524dc9f1e4c991707a8ecfd": [
+      "v1/content/pages/0015_wildflowersofwes0000mcca_Page_016.hocr"
+    ],
+    "07b52459fb6a57e3e14763a1a4ed67dfa301ff289b2f86228148a3f7e886d6625f2f6c00db0a48b0ce34bf76e415fa0e07d96bb8bcb41c3aa32d7f18d3fcf069": [
+      "v1/content/pages/0016_wildflowersofwes0000mcca_Page_017.jp2"
+    ],
+    "4a52ddcd034134c3c674023906aa96f9f926cdf842898ff655766ee03694b80d30a32ae953ffcf3c6bcd4192db740f13c99002de625591f98b1c72d3c90b434b": [
+      "v1/content/pages/0016_wildflowersofwes0000mcca_Page_017.hocr"
+    ],
+    "c1166a3bc74b076afed82d2c392d4c3e2dac17b6c200109d5eac744f9e07161ce6e48ce9d3019a929c7c4464bd0eb055b6841e9ad718ec6434a0d5967a3b284c": [
+      "v1/content/pages/0017_wildflowersofwes0000mcca_Page_018.jp2"
+    ],
+    "05a1c00f6fe422b98244c21424f94e6a4d697687ada909f500854dda77fc9224f01056ec8c44307bc5b052e89cd41d2a575d08d380a731d6bf40eed6aa63f6c4": [
+      "v1/content/pages/0017_wildflowersofwes0000mcca_Page_018.hocr"
+    ],
+    "46d02757920239d17f57ad46588054c395eb1f44d9391869c78e81f0d8ecf10e5b9fe80aabf1218d6da288428263c6f67407d7485da3d18cc74e23f382e278ee": [
+      "v1/content/pages/0018_wildflowersofwes0000mcca_Page_019.jp2"
+    ],
+    "175307f8286914265556895a2bd2928f6d2fd8ae0c88c67a9fe42b45358b09a528cf072c15d4d101b97f7528327074cfb18c23f8137cb6406f923b17e970e897": [
+      "v1/content/pages/0018_wildflowersofwes0000mcca_Page_019.hocr"
+    ],
+    "5598278edc5592cf5093287d54969d179f48367028535c92d00eb293fdd3781ab384975ce6986a557764ea042451e40742472ce69d36dd93c5cf06fda00bb1b9": [
+      "v1/content/pages/0019_wildflowersofwes0000mcca_Page_020.jp2"
+    ],
+    "3012d1c3290f4009aeab89cec9562f01b4551755dd983ffd0d5911cbdb66a7591972068d70d35bb2e4bb4bc6e76e0fa8292b5dc71f2015837e6c25342b70a10e": [
+      "v1/content/pages/0019_wildflowersofwes0000mcca_Page_020.hocr"
+    ],
+    "0d910bbedbbf937345dcbb81c7f8a0b6fb4a730d78bbce2d872901030c8d827ccbeda5fc8de6ebfdddd6fc04dddcebbf4751e10a7f1064c8de46a060eccc2be8": [
+      "v1/content/pages/0020_wildflowersofwes0000mcca_Page_021.jp2"
+    ],
+    "9f8b821bcd1493967c56f7e69ca4553b933f572432f5a58c03a842795244b6d71ff032a432fe64c8ff0ec4ce9524422cb43b14a70e9df31ca55a404fda7367aa": [
+      "v1/content/pages/0020_wildflowersofwes0000mcca_Page_021.hocr"
+    ],
+    "c70383c9fe65771d9e890326170a4dfb0266613e66921d0663454b897f9004c2cf1093feeac4f121beb8de3d1a6abba8bf9eae5146176bf57caf69f1d1efe213": [
+      "v1/content/pages/0021_wildflowersofwes0000mcca_Page_022.jp2"
+    ],
+    "5e89344423b934644ec34b52bf8ccc2b94cb835f0c1c03748aa10b0da567298c76a4ab77c59f5d93a0bc60f8f4e198961661bd86c0c082a0ab373c6fe19b096f": [
+      "v1/content/pages/0021_wildflowersofwes0000mcca_Page_022.hocr"
+    ],
+    "70a3d65a6a71c1eca838348db1f8fcb8fb3e66fc2f5cd0ffa8139a7b16292a502b1f8cf3106977c95552a649ed5b293f058933b35883b1213edc99b498ea7966": [
+      "v1/content/pages/0022_wildflowersofwes0000mcca_Page_023.jp2"
+    ],
+    "38d0f5e1e4e79d360beb730f2242442da90a38efe9936fdf8be4367361786f6e12e31483edb67d30f233cad92d723898c51e02d02ce924d24f81114b162abc30": [
+      "v1/content/pages/0022_wildflowersofwes0000mcca_Page_023.hocr"
+    ],
+    "d75be40599e6c9f3a4dc7ee39ad1e6d72a84fbdfa96abc19cec950b16a706dde25b6490a357845139b746e0483f51c7528cebc4415c9e882a688a3c2803b3f74": [
+      "v1/content/pages/0023_wildflowersofwes0000mcca_Page_024.jp2"
+    ],
+    "27ed47015b518ca23da15af4176673a257a73c1be7453604510afac428db911c72e61af3773782fe14ccb7c18b72868f4e627ec7c5039979d0aec15b5102c608": [
+      "v1/content/pages/0023_wildflowersofwes0000mcca_Page_024.hocr"
+    ],
+    "7ddc260a98f3a7ed1e270c9fb62351c8ad34d7ff329bb3db46ab4ca233d70508f0f841884de305b50f62ad8c1f0fc6e4e08d9a627aa8b3c3410f98068c3856e2": [
+      "v1/content/pages/0024_wildflowersofwes0000mcca_Page_025.jp2"
+    ],
+    "16d66062116695a887d63e8588c1855a375faa0c80ef9571282804230856dee40f01c6d64d65d6f768a4d9fc0c34760de62208c3a396a35050e4f55aee70cd73": [
+      "v1/content/pages/0024_wildflowersofwes0000mcca_Page_025.hocr"
+    ],
+    "da9ae6fe434fd82fdfade037a0634d5b79801dddf848d46cd6b0541851057536c30800536dd20398394d8c9b3d1611880e39dcb117f6708552f8275d9383a681": [
+      "v1/content/pages/0025_wildflowersofwes0000mcca_Page_026.jp2"
+    ],
+    "0c298e390c772b3cecc4ea7ed1b21df07c7ada19fc70c9e5bc503f255eaeeb6e39b5968898422b9a1e3c34c5f836a003856f2f26a160449ff7f98522ac096a15": [
+      "v1/content/pages/0025_wildflowersofwes0000mcca_Page_026.hocr"
+    ],
+    "5e0d96e935afca3db249e6f75fa1d44ceede433577e95801d449a1598be4b3e0c72a8a37e9e134f3fbb7f4e878509d6af994e2d96e03df4174764b3c9627c71e": [
+      "v1/content/pages/0026_wildflowersofwes0000mcca_Page_027.jp2"
+    ],
+    "971d0479f2666dd22bd3bf66510f341844d0965727d87c30e414bc29f64523b95d4e6ef7e023fff0f03ccee5c3d102f32f3b86b61780598bf89fe563303717fe": [
+      "v1/content/pages/0026_wildflowersofwes0000mcca_Page_027.hocr"
+    ],
+    "c74c47967fefd4a9411923c9085677f45848ffe7fde3217ec16fb28863bfa7bacad18d547bd27c5ee894006fcdda1035f84b01e373345d2a3c2a69f34d436af6": [
+      "v1/content/pages/0027_wildflowersofwes0000mcca_Page_028.jp2"
+    ],
+    "d63b5ae6e23bb67e8600356bc4da39e8f50b94d8f73e55d80280fa7c2e76d446f0dae1760946a69520ef19f0928f149081ce465e40bc4541001c17a6caf737ca": [
+      "v1/content/pages/0027_wildflowersofwes0000mcca_Page_028.hocr"
+    ],
+    "23d160cc112adfd051daa13e2cdc6ef6ec649fa72dfece522424c98209c9bd2b362a4cacffff1f3c4eb7a7890d33f9f185abc118eb42bbba37062308395468e0": [
+      "v1/content/pages/0028_wildflowersofwes0000mcca_Page_029.jp2"
+    ],
+    "02f7f86bb6980d1e345645602e79091b5300b79179a6401bbdb923ff75af3a4b5e8e9e888904a56288962e0b127d72bc2b801a3d59f6a01036487d5c8f97b37e": [
+      "v1/content/pages/0028_wildflowersofwes0000mcca_Page_029.hocr"
+    ],
+    "1e1220d852ac31a17a49ce5c80627cf1437e677918554cf3c06e3ddd52aea9ca9f3e927a80dbe1c3b9da2d7406c9758fec360f5819e90d1678a8798e8535a535": [
+      "v1/content/pages/0029_wildflowersofwes0000mcca_Page_030.jp2"
+    ],
+    "1e8611b243ad8d660bf0897a8093649e4305d5d36dec28f3824930169b79e0272b340bc66bfb10dcd2aa0c177aeaf8d7dcaded1df3b2fe8443f0924385e6fe94": [
+      "v1/content/pages/0029_wildflowersofwes0000mcca_Page_030.hocr"
+    ],
+    "a517a7b7fe123c2c0c9afd72f8e102d2056fc36a5b40f0978669a8a3cb074e49ea305c18e4a59d11f77353137181dd169b701fb7fd4b453b243fff14171e0434": [
+      "v1/content/pages/0030_wildflowersofwes0000mcca_Page_031.jp2"
+    ],
+    "cf9b923fb68f53ba86e91b144fb444c4b9a1943b5ab5a7cc0d7833eacc120010aecbd267df4b29abf8aa92ab78ce04f02645e3cf30c330f5108b694a718d4896": [
+      "v1/content/pages/0030_wildflowersofwes0000mcca_Page_031.hocr"
+    ],
+    "29014ca06088ff1656196f591534cbac69a960c4c7f426c78cc06f3843ea3ff49f760079558df22241291a51250af6cbf0acd1e2436766650e40ec690761459e": [
+      "v1/content/pages/0031_wildflowersofwes0000mcca_Page_032.jp2"
+    ],
+    "85d38a3d7e017eeb176cbe39300613cd4299edfae3d436ff2788b0c7e74300f02789952b998072a7724c1fac3118fb45a64b685321da612cff9b55d8af6d9ec2": [
+      "v1/content/pages/0031_wildflowersofwes0000mcca_Page_032.hocr"
+    ],
+    "08bd66078621030952e425151bc9d866820f6d136d27bd3dc085ce4030097c225f8f4128611973d8a0da22484102736b500eca45d7572dadf6b67f2481feec09": [
+      "v1/content/pages/0032_wildflowersofwes0000mcca_Page_033.jp2"
+    ],
+    "a713f25350a5488272f6f382648463a46b2369eec020053cba67c4913a7986d82c0e6faa9e9d7a18b7b869a08bfea50a2ba80a2f084fa772ba949e3fee05e7bb": [
+      "v1/content/pages/0032_wildflowersofwes0000mcca_Page_033.hocr"
+    ],
+    "ddb31e9ae2799fa2c9f448da0e8a3255522ca8bd2b490d330d63b453586f4d9c26bd5701a6854296c352f760037b730908ab7e2ac5913b7ec7f2c19d2b04baa1": [
+      "v1/content/pages/0033_wildflowersofwes0000mcca_Page_034.jp2"
+    ],
+    "26d74cc16c53a0bc3f6ed7ca60242b846187bc5ec9767f28d287b2eecb9373b581705419317221c7f3a476ae7a68c40b35af712234ff8eaff8a360f1c30d3ef6": [
+      "v1/content/pages/0033_wildflowersofwes0000mcca_Page_034.hocr"
+    ],
+    "350a0b771960809f1de723595d113037eb144360ce3090c19a6b8630d162bae3e5abf7d229a468f1ba6d163aec0d84a7680d2779e975e45445a9df1831ea2fdd": [
+      "v1/content/pages/0034_wildflowersofwes0000mcca_Page_035.jp2"
+    ],
+    "22356e54358ed5c99c7c671559dd2fe116b14b37f463de236b2ff4298ed586123d92bffad4af9bf9cf4b40ee61394834442a7813a9a2edc8ed0642c7391b00db": [
+      "v1/content/pages/0034_wildflowersofwes0000mcca_Page_035.hocr"
+    ],
+    "ec74dfc206fe08aed63908f555a3c976ef170101bb4e2084afae6594356e0c51c0ccc2ac00b7ebc4834024698cab114a5b50c42cddd59be4a0fe94d87b8314dd": [
+      "v1/content/pages/0035_wildflowersofwes0000mcca_Page_036.jp2"
+    ],
+    "0eef225df8ddbd355f671ec923979d7a10bca8dd0eeae243301ac55825e0222bbdd7e4df18e493082d7369670cdb3023423cc596b079bd3a6f0b58dc869eebdb": [
+      "v1/content/pages/0035_wildflowersofwes0000mcca_Page_036.hocr"
+    ],
+    "7f75841e14cae761f4ef9180afe55f7c7522accff1b3a7c984ff789e7e34226ac29734c94ab13341f0c59ec55cf28606da4fb9afe43d9a13e15e1cba4b991092": [
+      "v1/content/pages/0036_wildflowersofwes0000mcca_Page_037.jp2"
+    ],
+    "40e8a027d99a1715d681aeb8ef0378d31a66ca65b36cb39b3c3cf6ce718af589ab329610d71ddab416922f6d2a820145878231675fbb64546dca8a31a9d5ea73": [
+      "v1/content/pages/0036_wildflowersofwes0000mcca_Page_037.hocr"
+    ],
+    "530fda712146fe750046096ffe29bc08cc0e1893ecd8e1930debff1f930594ac81ef274b112455491048f5a52e843e62463433012388cd2e2f7a32c90b9f9d55": [
+      "v1/content/pages/0037_wildflowersofwes0000mcca_Page_038.jp2"
+    ],
+    "cb87a7a59011a1769d4c23d0f78939dd47141e13ab6e5372e048a57486d130ffd9d384bb7c54b535ae643f0f998383fdadbe1d7f0a88f2b7fffb7afb46979a86": [
+      "v1/content/pages/0037_wildflowersofwes0000mcca_Page_038.hocr"
+    ],
+    "b9ff6c91c41c0cc7db9066c0315c7aa563d4eb6a403899598d552d720220d4e47be99d88be76b8d21fb0a70a8ed34052faf6a2cafca04ac7893d10e9c56e90ae": [
+      "v1/content/pages/0038_wildflowersofwes0000mcca_Page_039.jp2"
+    ],
+    "e55c8dc6f58bafc7983a1a637a63fa2c080badbddc33f872b03ad5b7a840b83219444dfc8641f600f74a57574d1332483ae70c7d94312259a6f1471f8c7bbcfe": [
+      "v1/content/pages/0038_wildflowersofwes0000mcca_Page_039.hocr"
+    ],
+    "a02e2377fe7d5c06d50ef2dff94387eb5244538a29d51ce9ad40855bdb91e95f61c403aa61b2c83ed662d6e0c4c228999d8c5db586fb3f1d478b5436db9d991a": [
+      "v1/content/pages/0039_wildflowersofwes0000mcca_Page_040.jp2"
+    ],
+    "c033ea051454476bcb311d6aaedd08fdaf8b9fed58114607cd47f6c7b93d2b7ff31beef81a455d1771ec01da7fba126a5658022ffe60e649df0a00e444b13dfb": [
+      "v1/content/pages/0039_wildflowersofwes0000mcca_Page_040.hocr"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:35:01.763Z",
+      "state": {
+        "7220d0bc3f11e990c8bddf987dc1fcda8bd501c6b39acbed8ff5b5b48e1d410dcc673ce1e12e74418d7b254ed1ba76a2e5740079a08ef4fa1e441e9cd12d9d6e": [
+          "Wildflowers_TN.png"
+        ],
+        "ecb8bbbb8d7b976b9b54f2134319d89768ea531fb29b0f29b5c8e3358cf3fb2a62e9efe75380110265282a527033237dd7da8a6a3c5be95e27295c02ae35ffaa": [
+          "wildflowersofwes0000mcca.pdf.extracted.txt"
+        ],
+        "274f41b3e495d471b70c9eb2f7edcebab1a90c73c9156e2b26f98e903617c2d23ce57d5735ba91fd36e3246c7c4b03812868b5c2a6802600d0f36479795ec32c": [
+          "pages/0000_wildflowersofwes0000mcca_Page_001.jp2"
+        ],
+        "38831720edd697b1d0a553d90e668a30d0153c3a5f4382308311547fd9c4d3514c60bfc44b1e019e662c526c4c147b608b7ac39a63900033ad744ed31a3ac23d": [
+          "pages/0000_wildflowersofwes0000mcca_Page_001.hocr"
+        ],
+        "89f8f698ed1723daf75f04dcd1c58baa68ab6e291db81017649b53f9d097bbd66b02af9f8bb4fcf65e803ac37cb56c8d8d7ba04eb2a28753e85757e154ac94cc": [
+          "pages/0001_wildflowersofwes0000mcca_Page_002.jp2"
+        ],
+        "d1c666569fc1b970a837d71e6de4346a805ee02e122ae3aaab2f61a8a4e25c3b3afdeb877691bce2244c3b04d048786bf5cf070c80bcefc7c75c6fa512e5d0bb": [
+          "pages/0001_wildflowersofwes0000mcca_Page_002.hocr"
+        ],
+        "815f775c47db85b8220f5305c2191edace772a1804d6474f37616ba5c692a448f48a8a691f40818583716e89c3359da0b759c99ed6a10761bb33cd6383e3d4aa": [
+          "pages/0002_wildflowersofwes0000mcca_Page_003.jp2"
+        ],
+        "4266908558242016ce8314b487610c2f55234e8064400f58bac0d8824ceb7e724bf28996fd144f1ece0913436e23ac2de96a787ccfeae53bc504a0ddd2b95e15": [
+          "pages/0002_wildflowersofwes0000mcca_Page_003.hocr"
+        ],
+        "b1d700001dcceedc68d4defea4e012d72bf03ccd7b087b3d16d2a1e825653cba6bf85f83406ae5f0d37a76edff603163e6b674aad70b4fb015b71941d80564fc": [
+          "pages/0003_wildflowersofwes0000mcca_Page_004.jp2"
+        ],
+        "e271bca7f3173b67e9640d46a7bfa3fae04aa73fc179f1f8773151e7736f60d23345cb17d82ad8e3f17a8ae50d6dffaa358bdcae2bd2214d1d15c5dd67909f58": [
+          "pages/0003_wildflowersofwes0000mcca_Page_004.hocr"
+        ],
+        "de9cba9df903e7b3b14d238925f5e8fbd7f2050c82eccfa9ddecbbcf5765122bc8a319fe58a630b7ba35dedbb0a817192bbbeabc37f65be57ae19007a916f72e": [
+          "pages/0004_wildflowersofwes0000mcca_Page_005.jp2"
+        ],
+        "00f6e7ff667888b8b58bc5cc893c580d1324fa8d70e10b8fd1cb39ab0874862d6abac37955c7b4b33c085405a85527d4d658b7cdf40b74ba38b66d29513279be": [
+          "pages/0004_wildflowersofwes0000mcca_Page_005.hocr"
+        ],
+        "8aba1de60b30d9a9c595fd3d82cf246f730cd357c5f8a4f0f789c8a899fdd0600ac3beed55ce98e26ee97fe37bdb911b43c4438d37313689cfb04051010fdc0b": [
+          "pages/0005_wildflowersofwes0000mcca_Page_006.jp2"
+        ],
+        "0229591a4be07b37c184d2799667ef22f3465aad1a35ef1b67b8ba70ab10a3dbacbf9b63e4d4e46aee60ce45f330dfb1cb3340e48fe15c8cf7fbc3deb90ed7aa": [
+          "pages/0005_wildflowersofwes0000mcca_Page_006.hocr"
+        ],
+        "ee37727a33d9c95effdd49b92c17c7ee750a6e42e24f10b415dd46598be66b07c3c6aae07774bd5d753aa4fadcdbfd3bcb650910488762cc9ba5e7e9c6e25cbd": [
+          "pages/0006_wildflowersofwes0000mcca_Page_007.jp2"
+        ],
+        "a64cae4dc18e69e6c9b1fff0458ecedc28439255d5ec28913389327cb26a21540d0b8b76dd83b382c5b87fc6a85526aa01fa6c485cb3ef171854d2346d3a25d0": [
+          "pages/0006_wildflowersofwes0000mcca_Page_007.hocr"
+        ],
+        "94beed9ca88794a567d731ba04fa09c0b9ed4c3b68f3e62911d426a3fbcf1298a194e06812de4b111c1ebe0c8e34dc760865354584c97e65ad0daa11c149e1ee": [
+          "pages/0007_wildflowersofwes0000mcca_Page_008.jp2"
+        ],
+        "df1fcbb7f245b9b77ec7d7e74b2fa0c62beebe01164f4d5b504c0430548e84a216478c7e176e09dde84e957d4a2c8eb44eb9248002e29bc2f0d68cc399d43344": [
+          "pages/0007_wildflowersofwes0000mcca_Page_008.hocr"
+        ],
+        "18887dca2e187934611bbda8c76ea19a9503107a948df491969f169009c401621f12adfb2beb16fd897b0a9859e5c20e4b0e01289e878bc2517c522dd0b31be9": [
+          "pages/0008_wildflowersofwes0000mcca_Page_009.jp2"
+        ],
+        "a3c28ef5ea6815dad3adf060bb0cc26aaf46be0e064ec32a8492289f4e640b6e99ea3f6dd71c7e5047b73e69598c75625dea7e0b90dc335df5972b9cd3cc0767": [
+          "pages/0008_wildflowersofwes0000mcca_Page_009.hocr"
+        ],
+        "7fe97d3522401a2282f0049dbaf1541fcaa4173670dd8c7960df074b9fc3af0e51b793223577001c719c7c974e597311153203f9f3b38499274778853f1b0bbb": [
+          "pages/0009_wildflowersofwes0000mcca_Page_010.jp2"
+        ],
+        "d51c3bad270bdc637c98be250ebfbb7c3151874879df86e4d917460f4d1ac3a864824ead437a0e25129d7490177fcba3e3b4b18a8b285a769bdb5d67f2ff1c7e": [
+          "pages/0009_wildflowersofwes0000mcca_Page_010.hocr"
+        ],
+        "c1749f5df283696d859cd47a958def5a6ef7dced9a0c28ec7a6da7e89e230e47832979f326cb3852634e124bc95e232931dab7ed82e5fbdb005bc0d544091ba2": [
+          "pages/0010_wildflowersofwes0000mcca_Page_011.jp2"
+        ],
+        "c6f19e398fcd7107edb5764eaa51c18119915263813abd2b17bf3b243d9433fc0b67c81a4be0fcd4352fb9a507656e6705222c1fde3c4852981a8afc5a394e20": [
+          "pages/0010_wildflowersofwes0000mcca_Page_011.hocr"
+        ],
+        "11b4846960cb165f56017a4bbb2d965fd02a26506075e0ce81659ec6b58941237d5d22bc0e89a734258fc377af0603da9b5600651d6e3f2415d5b98fb7ec357b": [
+          "pages/0011_wildflowersofwes0000mcca_Page_012.jp2"
+        ],
+        "762c701e457d0e630dfba73c7305965a7a6ab04c1da93deff4305608a5f1fbf4c51b633eea2e1e84d57d65b150d8ee8f9dac30370038c210ce57169e12987deb": [
+          "pages/0011_wildflowersofwes0000mcca_Page_012.hocr"
+        ],
+        "3aab7df9e26de72847e1f2ff469c19977a0265c68419267daf002d93d6d7e5a31567a6e662d4436217ce44da9613143fcaa96d17748dedaaca1e222aae3f493d": [
+          "pages/0012_wildflowersofwes0000mcca_Page_013.jp2"
+        ],
+        "cf54439d535b9ad73f2fe7c0e47cfdbf2c92a786f7ec962af17814f3c6a289e51989d517bdcf183625c289b1b373998ccc13fdff054ea2bfeb54a2339a1a85b6": [
+          "pages/0012_wildflowersofwes0000mcca_Page_013.hocr"
+        ],
+        "2f8dd5ee65545ee19d33cb09cb7108cfb59eda48f5cd483df4e7aab24fddd0a0dfe7875cd605304138c48a7317fd51e21234db60f20ecc615b401dcedcc3d206": [
+          "pages/0013_wildflowersofwes0000mcca_Page_014.jp2"
+        ],
+        "813ee0f55a43a3f1b993aaa27b2b284e5ada2c22fc61c9701e0ccfbba11a42595eb2b0c8eb7798b3554648395e563983e9da431144ba69259225dec00294b7a8": [
+          "pages/0013_wildflowersofwes0000mcca_Page_014.hocr"
+        ],
+        "68bafc209011b6861897661932748a660c7e0ead823a8b38aa47a0607c5ea71ff0dac8fe041627dba2742f3723295887ab0e867e381b31033f01c9fd8d0253ad": [
+          "pages/0014_wildflowersofwes0000mcca_Page_015.jp2"
+        ],
+        "2a22a8b17bef980a76b00abb21319209bd67fc3221360c89f4f3af5c660ed01d5c47eb2876d3f2d0c1571e519389f2112ceeb736d7581d45ae72a89018029ecf": [
+          "pages/0014_wildflowersofwes0000mcca_Page_015.hocr"
+        ],
+        "24cef7bbc716fd72bd194b974b7c71c1c138ec9988fc7b257ebb135645d8ec95d3b757db75230b6e763e9efe909cd3f4c2bf4364003b6056881b13eba9a45838": [
+          "pages/0015_wildflowersofwes0000mcca_Page_016.jp2"
+        ],
+        "4742a92337e632c433fd56e93e499935f237006cc92956b1b1fd9524d5c58b8d81e14e9f6df014b2b7d7e6a96ba593611c9660131524dc9f1e4c991707a8ecfd": [
+          "pages/0015_wildflowersofwes0000mcca_Page_016.hocr"
+        ],
+        "07b52459fb6a57e3e14763a1a4ed67dfa301ff289b2f86228148a3f7e886d6625f2f6c00db0a48b0ce34bf76e415fa0e07d96bb8bcb41c3aa32d7f18d3fcf069": [
+          "pages/0016_wildflowersofwes0000mcca_Page_017.jp2"
+        ],
+        "4a52ddcd034134c3c674023906aa96f9f926cdf842898ff655766ee03694b80d30a32ae953ffcf3c6bcd4192db740f13c99002de625591f98b1c72d3c90b434b": [
+          "pages/0016_wildflowersofwes0000mcca_Page_017.hocr"
+        ],
+        "c1166a3bc74b076afed82d2c392d4c3e2dac17b6c200109d5eac744f9e07161ce6e48ce9d3019a929c7c4464bd0eb055b6841e9ad718ec6434a0d5967a3b284c": [
+          "pages/0017_wildflowersofwes0000mcca_Page_018.jp2"
+        ],
+        "05a1c00f6fe422b98244c21424f94e6a4d697687ada909f500854dda77fc9224f01056ec8c44307bc5b052e89cd41d2a575d08d380a731d6bf40eed6aa63f6c4": [
+          "pages/0017_wildflowersofwes0000mcca_Page_018.hocr"
+        ],
+        "46d02757920239d17f57ad46588054c395eb1f44d9391869c78e81f0d8ecf10e5b9fe80aabf1218d6da288428263c6f67407d7485da3d18cc74e23f382e278ee": [
+          "pages/0018_wildflowersofwes0000mcca_Page_019.jp2"
+        ],
+        "175307f8286914265556895a2bd2928f6d2fd8ae0c88c67a9fe42b45358b09a528cf072c15d4d101b97f7528327074cfb18c23f8137cb6406f923b17e970e897": [
+          "pages/0018_wildflowersofwes0000mcca_Page_019.hocr"
+        ],
+        "5598278edc5592cf5093287d54969d179f48367028535c92d00eb293fdd3781ab384975ce6986a557764ea042451e40742472ce69d36dd93c5cf06fda00bb1b9": [
+          "pages/0019_wildflowersofwes0000mcca_Page_020.jp2"
+        ],
+        "3012d1c3290f4009aeab89cec9562f01b4551755dd983ffd0d5911cbdb66a7591972068d70d35bb2e4bb4bc6e76e0fa8292b5dc71f2015837e6c25342b70a10e": [
+          "pages/0019_wildflowersofwes0000mcca_Page_020.hocr"
+        ],
+        "0d910bbedbbf937345dcbb81c7f8a0b6fb4a730d78bbce2d872901030c8d827ccbeda5fc8de6ebfdddd6fc04dddcebbf4751e10a7f1064c8de46a060eccc2be8": [
+          "pages/0020_wildflowersofwes0000mcca_Page_021.jp2"
+        ],
+        "9f8b821bcd1493967c56f7e69ca4553b933f572432f5a58c03a842795244b6d71ff032a432fe64c8ff0ec4ce9524422cb43b14a70e9df31ca55a404fda7367aa": [
+          "pages/0020_wildflowersofwes0000mcca_Page_021.hocr"
+        ],
+        "c70383c9fe65771d9e890326170a4dfb0266613e66921d0663454b897f9004c2cf1093feeac4f121beb8de3d1a6abba8bf9eae5146176bf57caf69f1d1efe213": [
+          "pages/0021_wildflowersofwes0000mcca_Page_022.jp2"
+        ],
+        "5e89344423b934644ec34b52bf8ccc2b94cb835f0c1c03748aa10b0da567298c76a4ab77c59f5d93a0bc60f8f4e198961661bd86c0c082a0ab373c6fe19b096f": [
+          "pages/0021_wildflowersofwes0000mcca_Page_022.hocr"
+        ],
+        "70a3d65a6a71c1eca838348db1f8fcb8fb3e66fc2f5cd0ffa8139a7b16292a502b1f8cf3106977c95552a649ed5b293f058933b35883b1213edc99b498ea7966": [
+          "pages/0022_wildflowersofwes0000mcca_Page_023.jp2"
+        ],
+        "38d0f5e1e4e79d360beb730f2242442da90a38efe9936fdf8be4367361786f6e12e31483edb67d30f233cad92d723898c51e02d02ce924d24f81114b162abc30": [
+          "pages/0022_wildflowersofwes0000mcca_Page_023.hocr"
+        ],
+        "d75be40599e6c9f3a4dc7ee39ad1e6d72a84fbdfa96abc19cec950b16a706dde25b6490a357845139b746e0483f51c7528cebc4415c9e882a688a3c2803b3f74": [
+          "pages/0023_wildflowersofwes0000mcca_Page_024.jp2"
+        ],
+        "27ed47015b518ca23da15af4176673a257a73c1be7453604510afac428db911c72e61af3773782fe14ccb7c18b72868f4e627ec7c5039979d0aec15b5102c608": [
+          "pages/0023_wildflowersofwes0000mcca_Page_024.hocr"
+        ],
+        "7ddc260a98f3a7ed1e270c9fb62351c8ad34d7ff329bb3db46ab4ca233d70508f0f841884de305b50f62ad8c1f0fc6e4e08d9a627aa8b3c3410f98068c3856e2": [
+          "pages/0024_wildflowersofwes0000mcca_Page_025.jp2"
+        ],
+        "16d66062116695a887d63e8588c1855a375faa0c80ef9571282804230856dee40f01c6d64d65d6f768a4d9fc0c34760de62208c3a396a35050e4f55aee70cd73": [
+          "pages/0024_wildflowersofwes0000mcca_Page_025.hocr"
+        ],
+        "da9ae6fe434fd82fdfade037a0634d5b79801dddf848d46cd6b0541851057536c30800536dd20398394d8c9b3d1611880e39dcb117f6708552f8275d9383a681": [
+          "pages/0025_wildflowersofwes0000mcca_Page_026.jp2"
+        ],
+        "0c298e390c772b3cecc4ea7ed1b21df07c7ada19fc70c9e5bc503f255eaeeb6e39b5968898422b9a1e3c34c5f836a003856f2f26a160449ff7f98522ac096a15": [
+          "pages/0025_wildflowersofwes0000mcca_Page_026.hocr"
+        ],
+        "5e0d96e935afca3db249e6f75fa1d44ceede433577e95801d449a1598be4b3e0c72a8a37e9e134f3fbb7f4e878509d6af994e2d96e03df4174764b3c9627c71e": [
+          "pages/0026_wildflowersofwes0000mcca_Page_027.jp2"
+        ],
+        "971d0479f2666dd22bd3bf66510f341844d0965727d87c30e414bc29f64523b95d4e6ef7e023fff0f03ccee5c3d102f32f3b86b61780598bf89fe563303717fe": [
+          "pages/0026_wildflowersofwes0000mcca_Page_027.hocr"
+        ],
+        "c74c47967fefd4a9411923c9085677f45848ffe7fde3217ec16fb28863bfa7bacad18d547bd27c5ee894006fcdda1035f84b01e373345d2a3c2a69f34d436af6": [
+          "pages/0027_wildflowersofwes0000mcca_Page_028.jp2"
+        ],
+        "d63b5ae6e23bb67e8600356bc4da39e8f50b94d8f73e55d80280fa7c2e76d446f0dae1760946a69520ef19f0928f149081ce465e40bc4541001c17a6caf737ca": [
+          "pages/0027_wildflowersofwes0000mcca_Page_028.hocr"
+        ],
+        "23d160cc112adfd051daa13e2cdc6ef6ec649fa72dfece522424c98209c9bd2b362a4cacffff1f3c4eb7a7890d33f9f185abc118eb42bbba37062308395468e0": [
+          "pages/0028_wildflowersofwes0000mcca_Page_029.jp2"
+        ],
+        "02f7f86bb6980d1e345645602e79091b5300b79179a6401bbdb923ff75af3a4b5e8e9e888904a56288962e0b127d72bc2b801a3d59f6a01036487d5c8f97b37e": [
+          "pages/0028_wildflowersofwes0000mcca_Page_029.hocr"
+        ],
+        "1e1220d852ac31a17a49ce5c80627cf1437e677918554cf3c06e3ddd52aea9ca9f3e927a80dbe1c3b9da2d7406c9758fec360f5819e90d1678a8798e8535a535": [
+          "pages/0029_wildflowersofwes0000mcca_Page_030.jp2"
+        ],
+        "1e8611b243ad8d660bf0897a8093649e4305d5d36dec28f3824930169b79e0272b340bc66bfb10dcd2aa0c177aeaf8d7dcaded1df3b2fe8443f0924385e6fe94": [
+          "pages/0029_wildflowersofwes0000mcca_Page_030.hocr"
+        ],
+        "a517a7b7fe123c2c0c9afd72f8e102d2056fc36a5b40f0978669a8a3cb074e49ea305c18e4a59d11f77353137181dd169b701fb7fd4b453b243fff14171e0434": [
+          "pages/0030_wildflowersofwes0000mcca_Page_031.jp2"
+        ],
+        "cf9b923fb68f53ba86e91b144fb444c4b9a1943b5ab5a7cc0d7833eacc120010aecbd267df4b29abf8aa92ab78ce04f02645e3cf30c330f5108b694a718d4896": [
+          "pages/0030_wildflowersofwes0000mcca_Page_031.hocr"
+        ],
+        "29014ca06088ff1656196f591534cbac69a960c4c7f426c78cc06f3843ea3ff49f760079558df22241291a51250af6cbf0acd1e2436766650e40ec690761459e": [
+          "pages/0031_wildflowersofwes0000mcca_Page_032.jp2"
+        ],
+        "85d38a3d7e017eeb176cbe39300613cd4299edfae3d436ff2788b0c7e74300f02789952b998072a7724c1fac3118fb45a64b685321da612cff9b55d8af6d9ec2": [
+          "pages/0031_wildflowersofwes0000mcca_Page_032.hocr"
+        ],
+        "08bd66078621030952e425151bc9d866820f6d136d27bd3dc085ce4030097c225f8f4128611973d8a0da22484102736b500eca45d7572dadf6b67f2481feec09": [
+          "pages/0032_wildflowersofwes0000mcca_Page_033.jp2"
+        ],
+        "a713f25350a5488272f6f382648463a46b2369eec020053cba67c4913a7986d82c0e6faa9e9d7a18b7b869a08bfea50a2ba80a2f084fa772ba949e3fee05e7bb": [
+          "pages/0032_wildflowersofwes0000mcca_Page_033.hocr"
+        ],
+        "ddb31e9ae2799fa2c9f448da0e8a3255522ca8bd2b490d330d63b453586f4d9c26bd5701a6854296c352f760037b730908ab7e2ac5913b7ec7f2c19d2b04baa1": [
+          "pages/0033_wildflowersofwes0000mcca_Page_034.jp2"
+        ],
+        "26d74cc16c53a0bc3f6ed7ca60242b846187bc5ec9767f28d287b2eecb9373b581705419317221c7f3a476ae7a68c40b35af712234ff8eaff8a360f1c30d3ef6": [
+          "pages/0033_wildflowersofwes0000mcca_Page_034.hocr"
+        ],
+        "350a0b771960809f1de723595d113037eb144360ce3090c19a6b8630d162bae3e5abf7d229a468f1ba6d163aec0d84a7680d2779e975e45445a9df1831ea2fdd": [
+          "pages/0034_wildflowersofwes0000mcca_Page_035.jp2"
+        ],
+        "22356e54358ed5c99c7c671559dd2fe116b14b37f463de236b2ff4298ed586123d92bffad4af9bf9cf4b40ee61394834442a7813a9a2edc8ed0642c7391b00db": [
+          "pages/0034_wildflowersofwes0000mcca_Page_035.hocr"
+        ],
+        "ec74dfc206fe08aed63908f555a3c976ef170101bb4e2084afae6594356e0c51c0ccc2ac00b7ebc4834024698cab114a5b50c42cddd59be4a0fe94d87b8314dd": [
+          "pages/0035_wildflowersofwes0000mcca_Page_036.jp2"
+        ],
+        "0eef225df8ddbd355f671ec923979d7a10bca8dd0eeae243301ac55825e0222bbdd7e4df18e493082d7369670cdb3023423cc596b079bd3a6f0b58dc869eebdb": [
+          "pages/0035_wildflowersofwes0000mcca_Page_036.hocr"
+        ],
+        "7f75841e14cae761f4ef9180afe55f7c7522accff1b3a7c984ff789e7e34226ac29734c94ab13341f0c59ec55cf28606da4fb9afe43d9a13e15e1cba4b991092": [
+          "pages/0036_wildflowersofwes0000mcca_Page_037.jp2"
+        ],
+        "40e8a027d99a1715d681aeb8ef0378d31a66ca65b36cb39b3c3cf6ce718af589ab329610d71ddab416922f6d2a820145878231675fbb64546dca8a31a9d5ea73": [
+          "pages/0036_wildflowersofwes0000mcca_Page_037.hocr"
+        ],
+        "530fda712146fe750046096ffe29bc08cc0e1893ecd8e1930debff1f930594ac81ef274b112455491048f5a52e843e62463433012388cd2e2f7a32c90b9f9d55": [
+          "pages/0037_wildflowersofwes0000mcca_Page_038.jp2"
+        ],
+        "cb87a7a59011a1769d4c23d0f78939dd47141e13ab6e5372e048a57486d130ffd9d384bb7c54b535ae643f0f998383fdadbe1d7f0a88f2b7fffb7afb46979a86": [
+          "pages/0037_wildflowersofwes0000mcca_Page_038.hocr"
+        ],
+        "b9ff6c91c41c0cc7db9066c0315c7aa563d4eb6a403899598d552d720220d4e47be99d88be76b8d21fb0a70a8ed34052faf6a2cafca04ac7893d10e9c56e90ae": [
+          "pages/0038_wildflowersofwes0000mcca_Page_039.jp2"
+        ],
+        "e55c8dc6f58bafc7983a1a637a63fa2c080badbddc33f872b03ad5b7a840b83219444dfc8641f600f74a57574d1332483ae70c7d94312259a6f1471f8c7bbcfe": [
+          "pages/0038_wildflowersofwes0000mcca_Page_039.hocr"
+        ],
+        "a02e2377fe7d5c06d50ef2dff94387eb5244538a29d51ce9ad40855bdb91e95f61c403aa61b2c83ed662d6e0c4c228999d8c5db586fb3f1d478b5436db9d991a": [
+          "pages/0039_wildflowersofwes0000mcca_Page_040.jp2"
+        ],
+        "c033ea051454476bcb311d6aaedd08fdaf8b9fed58114607cd47f6c7b93d2b7ff31beef81a455d1771ec01da7fba126a5658022ffe60e649df0a00e444b13dfb": [
+          "pages/0039_wildflowersofwes0000mcca_Page_040.hocr"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}

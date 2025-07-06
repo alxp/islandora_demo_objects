@@ -1,0 +1,27 @@
+{
+  "id": "10",
+  "digestAlgorithm": "sha512",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "manifest": {
+    "4b785da09972c614971eaa7c2fafa042408d4d3c2684ecfd98fe103e9b5b78c5313023402a7e2eb02062c62e21e05e7d9fc0feac8993d4c4d50f75a820ee437d": [
+      "v1/content/Sample_Excel_file.xlsx"
+    ],
+    "7bf4111a52d1d557dc4c07fa1709d8d39970b6aa991b2b3ceefd322aede1f988f910bda2a8d53bd258a9bcdf80210286fc96c64a701b99a98988ef46b9ad93e9": [
+      "v1/content/metadata/dublin_core.xml"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2025-07-06T17:34:55.842Z",
+      "state": {
+        "4b785da09972c614971eaa7c2fafa042408d4d3c2684ecfd98fe103e9b5b78c5313023402a7e2eb02062c62e21e05e7d9fc0feac8993d4c4d50f75a820ee437d": [
+          "Sample_Excel_file.xlsx"
+        ],
+        "7bf4111a52d1d557dc4c07fa1709d8d39970b6aa991b2b3ceefd322aede1f988f910bda2a8d53bd258a9bcdf80210286fc96c64a701b99a98988ef46b9ad93e9": [
+          "metadata/dublin_core.xml"
+        ]
+      }
+    }
+  },
+  "head": "v1"
+}
