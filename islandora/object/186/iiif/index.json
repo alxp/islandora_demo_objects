@@ -3,23 +3,23 @@
     "http://www.w3.org/ns/anno.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json",
+  "id": "http://localhost:8080/islandora/object/186/iiif/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/0",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/0/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/0/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg1/1970_pg1.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg1/1970_pg1.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -31,13 +31,13 @@
                 "height": 5120,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg1/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg1/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/0"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/0"
             }
           ]
         }
@@ -50,32 +50,32 @@
       "width": 3590,
       "height": 5120,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg1/1970_pg1.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg1/1970_pg1.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg1/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg1/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/1",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/1",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/1/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/1/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/1/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/1/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg2/1970_pg2.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg2/1970_pg2.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -87,13 +87,13 @@
                 "height": 5124,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg2/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg2/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/1"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/1"
             }
           ]
         }
@@ -106,32 +106,32 @@
       "width": 3477,
       "height": 5124,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg2/1970_pg2.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg2/1970_pg2.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg2/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg2/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/2",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/2",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/2/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/2/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/2/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/2/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg3/1970_pg3.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg3/1970_pg3.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -143,13 +143,13 @@
                 "height": 5124,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg3/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg3/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/2"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/2"
             }
           ]
         }
@@ -162,32 +162,32 @@
       "width": 3597,
       "height": 5124,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg3/1970_pg3.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg3/1970_pg3.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg3/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg3/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/3",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/3",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/3/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/3/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/3/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/3/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg4/1970_pg4.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg4/1970_pg4.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -199,13 +199,13 @@
                 "height": 5105,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg4/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg4/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/3"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/3"
             }
           ]
         }
@@ -218,32 +218,32 @@
       "width": 3511,
       "height": 5105,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg4/1970_pg4.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg4/1970_pg4.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg4/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg4/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/4",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/4",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/4/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/4/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/4/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/4/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg5/1970_pg5.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg5/1970_pg5.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -255,13 +255,13 @@
                 "height": 5097,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg5/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg5/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/4"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/4"
             }
           ]
         }
@@ -274,32 +274,32 @@
       "width": 3550,
       "height": 5097,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg5/1970_pg5.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg5/1970_pg5.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg5/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg5/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/5",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/5",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/5/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/5/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/5/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/5/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg6/1970_pg6.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg6/1970_pg6.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -311,13 +311,13 @@
                 "height": 5124,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg6/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg6/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/5"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/5"
             }
           ]
         }
@@ -330,32 +330,32 @@
       "width": 3567,
       "height": 5124,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg6/1970_pg6.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg6/1970_pg6.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg6/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg6/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/6",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/6",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/6/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/6/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/6/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/6/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg7/1970_pg7.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg7/1970_pg7.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -367,13 +367,13 @@
                 "height": 5124,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg7/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg7/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/6"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/6"
             }
           ]
         }
@@ -386,32 +386,32 @@
       "width": 3507,
       "height": 5124,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg7/1970_pg7.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg7/1970_pg7.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg7/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg7/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/7",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/7",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/7/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/7/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/7/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/7/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg8/1970_pg8.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg8/1970_pg8.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -423,13 +423,13 @@
                 "height": 5124,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg8/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg8/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/7"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/7"
             }
           ]
         }
@@ -442,32 +442,32 @@
       "width": 3568,
       "height": 5124,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg8/1970_pg8.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg8/1970_pg8.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg8/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg8/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/8",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/8",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/8/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/8/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/8/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/8/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg9/1970_pg9.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg9/1970_pg9.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -479,13 +479,13 @@
                 "height": 5124,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg9/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg9/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/8"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/8"
             }
           ]
         }
@@ -498,32 +498,32 @@
       "width": 3506,
       "height": 5124,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg9/1970_pg9.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg9/1970_pg9.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg9/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg9/thumb.jpg",
           "type": "Image"
         }
       ]
     },
     {
-      "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/9",
+      "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/9",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/9/annotationpage/0",
+          "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/9/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/9/annotation/0",
+              "id": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/9/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg10/1970_pg10.tiff",
+                "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg10/1970_pg10.tiff",
                 "type": "Image",
                 "format": "image/jpeg",
                 "label": {
@@ -535,13 +535,13 @@
                 "height": 5116,
                 "service": [
                   {
-                    "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg10/+tiles",
+                    "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg10/+tiles",
                     "@type": "ImageService2",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
-              "target": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/index.json/canvas/9"
+              "target": "http://localhost:8080/islandora/object/186/iiif/index.json/canvas/9"
             }
           ]
         }
@@ -554,14 +554,14 @@
       "width": 3588,
       "height": 5116,
       "seeAlso": {
-        "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg10/1970_pg10.hocr",
+        "@id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg10/1970_pg10.hocr",
         "format": "text/vnd.hocr+html",
         "profile": "http://kba.cloud/hocr-spec",
         "label": "hOCR embedded text"
       },
       "thumbnail": [
         {
-          "id": "https://alxp.github.io/islandora_demo_objects/islandora/object/186/iiif/_1970_pg10/thumb.jpg",
+          "id": "http://localhost:8080/islandora/object/186/iiif/_1970_pg10/thumb.jpg",
           "type": "Image"
         }
       ]

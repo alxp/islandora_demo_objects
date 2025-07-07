@@ -77,15 +77,6 @@
 {
   
    "id": 8,
-   "title": "Search",
-   "url": "/search/",
-   "description": ""
-} ,
-
-
-{
-  
-   "id": 9,
    "title": "Book Collection",
    "url": "/islandora/object/2/",
    "description": "This collection demonstrates the look, feel, and behaviour of a book collection in Islandora."
@@ -94,7 +85,7 @@
 
 {
   
-   "id": 10,
+   "id": 9,
    "title": "Document Collection",
    "url": "/islandora/object/3/",
    "description": "This collection demonstrates the look, feel, and behaviour of documents in Islandora."
@@ -103,7 +94,7 @@
 
 {
   
-   "id": 11,
+   "id": 10,
    "title": "Compound Collection",
    "url": "/islandora/object/4/",
    "description": "This collection demonstrates the look, feel, and behaviour of compound objects in islandora."
@@ -112,7 +103,7 @@
 
 {
   
-   "id": 12,
+   "id": 11,
    "title": "Large Image Collection",
    "url": "/islandora/object/5/",
    "description": "This collection demonstrates the look, feel, and behaviour of large (zoomable) images in Islandora."
@@ -121,7 +112,7 @@
 
 {
   
-   "id": 13,
+   "id": 12,
    "title": "Simple Image Collection",
    "url": "/islandora/object/6/",
    "description": "This collection demonstrates the look, feel, and behaviour of simple images in Islandora."
@@ -130,7 +121,7 @@
 
 {
   
-   "id": 14,
+   "id": 13,
    "title": "Newspaper Collection",
    "url": "/islandora/object/7/",
    "description": "This collection demonstrates the look, feel, and behaviour of newspapers in Islandora."
@@ -139,7 +130,7 @@
 
 {
   
-   "id": 15,
+   "id": 14,
    "title": "Audio Collection",
    "url": "/islandora/object/8/",
    "description": "This collection demonstrates the look, feel, and behaviour of Audio files in Islandora."
@@ -148,7 +139,7 @@
 
 {
   
-   "id": 16,
+   "id": 15,
    "title": "Video Collection",
    "url": "/islandora/object/9/",
    "description": "Thic collection demonstrates the look, feel, and behaviour of video files in Islandora."
@@ -157,7 +148,7 @@
 
 {
   
-   "id": 17,
+   "id": 16,
    "title": "Binary Collection",
    "url": "/islandora/object/197/",
    "description": "This collection demonstrates the look, feel, and behaviour of binary files in Islandora."
@@ -166,7 +157,7 @@
 
 {
   
-   "id": 18,
+   "id": 17,
    "title": "Staging Subcollection",
    "url": "/islandora/object/198/",
    "description": "This collection demonstrates the look, feel, and behaviour of sub-collections in Islandora."
@@ -175,7 +166,7 @@
 
 {
   
-   "id": 19,
+   "id": 18,
    "title": "Atlantic Canada Newspaper Survey - Dataset",
    "url": "/islandora/object/199/",
    "description": "The Atlantic Canada Newspaper Survey (ACNS) project was designed to provide a machine-readable database of goods and services offered for sale in important east coast regional newspapers before 1900. This newspaper research database has as its focus nine broad categories of commodities based upon..."
@@ -184,7 +175,7 @@
 
 {
   
-   "id": 20,
+   "id": 19,
    "title": "Sample Simple Image without Cataloguing",
    "url": "/islandora/object/200/",
    "description": "This is an uncatalogued image used to demonstrate editorial workflows around cataloguing."
@@ -193,7 +184,7 @@
 
 {
   
-   "id": 21,
+   "id": 20,
    "title": "Sample Simple Image without Cataloguing",
    "url": "/islandora/object/201/",
    "description": "This is an uncatalogued image used to demonstrate editorial workflows around cataloguing."
@@ -202,7 +193,7 @@
 
 {
   
-   "id": 22,
+   "id": 21,
    "title": "Sample Simple Image without Cataloguing",
    "url": "/islandora/object/202/",
    "description": "This is an uncatalogued image used to demonstrate editorial workflows around cataloguing."
@@ -211,7 +202,7 @@
 
 {
   
-   "id": 23,
+   "id": 22,
    "title": "Activities in the city of Toronto",
    "url": "/islandora/object/10/",
    "description": "This sample dataset of activities in Toronto was downloaded from Toronto&#39;s Open Data Portal."
@@ -220,7 +211,7 @@
 
 {
   
-   "id": 24,
+   "id": 23,
    "title": "Drop in activities in Toronto",
    "url": "/islandora/object/11/",
    "description": "This document contains tabs for Registered Programs, Drop-in, Locations, and Facilities for the city of Toronto."
@@ -229,7 +220,7 @@
 
 {
   
-   "id": 25,
+   "id": 24,
    "title": "Adding a Child Collection using the Islandora Content Modeler Module",
    "url": "/islandora/object/12/",
    "description": "Slides walking through the functionality of an early content modeling module for Islandora."
@@ -238,7 +229,7 @@
 
 {
   
-   "id": 26,
+   "id": 25,
    "title": "Library circulation desk",
    "url": "/islandora/object/13/",
    "description": "Depicts the Library Circulation desk of the University of Toronto Scarborough Library."
@@ -247,7 +238,7 @@
 
 {
   
-   "id": 27,
+   "id": 26,
    "title": "Portrait of J. Crichton-Patterson",
    "url": "/islandora/object/14/",
    "description": "Portrait of J. Crichton-Patterson holding a computer and a stack of books."
@@ -256,7 +247,7 @@
 
 {
   
-   "id": 28,
+   "id": 27,
    "title": "Students at Orientation",
    "url": "/islandora/object/15/",
    "description": "Photo caption: &quot;Orientation &#39;89&quot;."
@@ -265,7 +256,7 @@
 
 {
   
-   "id": 29,
+   "id": 28,
    "title": "Talking Drupal #309 - Media",
    "url": "/islandora/object/16/",
    "description": "Today we are talking about Media with Adam Globus-Hoenich and Sean Blommaert."
@@ -274,7 +265,7 @@
 
 {
   
-   "id": 30,
+   "id": 29,
    "title": "Interview with Diane Hill",
    "url": "/islandora/object/17/",
    "description": "Learning about the barriers faced by a First Nations student while attending UTSC."
@@ -283,7 +274,7 @@
 
 {
   
-   "id": 31,
+   "id": 30,
    "title": "An excerpt from Noah Smith&#39;s presentation on Docker",
    "url": "/islandora/object/18/",
    "description": "In the October 2021 Islandora Open Meeting, Born-Digital CEO Noah Smith gave this presentation on how to use Docker/ISLE."
@@ -292,7 +283,7 @@
 
 {
   
-   "id": 32,
+   "id": 31,
    "title": "தொகுதி 1 - தொடக்கத்தில்",
    "url": "/islandora/object/19/",
    "description": ""
@@ -301,7 +292,7 @@
 
 {
   
-   "id": 33,
+   "id": 32,
    "title": "Rural Scene, Cardiagan, Prince Edward Island, Canada",
    "url": "/islandora/object/20/",
    "description": "A coloured photograph depicting a rural scene of Cardiagan, Prince Edward Island."
@@ -310,7 +301,7 @@
 
 {
   
-   "id": 34,
+   "id": 33,
    "title": "Among the Big Guns, Camp Brighton, Charlottetown, Prince Edward Island, Canada",
    "url": "/islandora/object/21/",
    "description": "A coloured photograph depicting various individuals among the Big Guns, Camp Brighton, Charlottetown, Prince Edward Island."
@@ -319,7 +310,7 @@
 
 {
   
-   "id": 35,
+   "id": 34,
    "title": "Seafarers Haven, Prince Edward Island, Canada",
    "url": "/islandora/object/22/",
    "description": "A coloured photograph depicting Seafarers Haven, Prince Edward Island."
@@ -328,7 +319,7 @@
 
 {
   
-   "id": 36,
+   "id": 35,
    "title": "Farmers Bank of Rustico/La Banque de Rustico (1864-1894)",
    "url": "/islandora/object/23/",
    "description": "A coloured photograph depicting the Farmers Bank of Rustico/La Banque de Rustico building."
@@ -337,7 +328,7 @@
 
 {
   
-   "id": 37,
+   "id": 36,
    "title": "Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/",
    "description": "Excerpt from &#39;Wild flowers of Western Canada&#39; with 60 plates from original photographs by the William Copeland McCalla."
@@ -346,7 +337,7 @@
 
 {
   
-   "id": 38,
+   "id": 37,
    "title": "Page 1 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/25/",
    "description": ""
@@ -355,7 +346,7 @@
 
 {
   
-   "id": 39,
+   "id": 38,
    "title": "Page 2 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=1",
    "description": ""
@@ -364,7 +355,7 @@
 
 {
   
-   "id": 40,
+   "id": 39,
    "title": "Page 3 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=2",
    "description": ""
@@ -373,7 +364,7 @@
 
 {
   
-   "id": 41,
+   "id": 40,
    "title": "Page 4 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=3",
    "description": ""
@@ -382,7 +373,7 @@
 
 {
   
-   "id": 42,
+   "id": 41,
    "title": "Page 5 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=4",
    "description": ""
@@ -391,7 +382,7 @@
 
 {
   
-   "id": 43,
+   "id": 42,
    "title": "Page 6 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=5",
    "description": ""
@@ -400,7 +391,7 @@
 
 {
   
-   "id": 44,
+   "id": 43,
    "title": "Page 7 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=6",
    "description": ""
@@ -409,7 +400,7 @@
 
 {
   
-   "id": 45,
+   "id": 44,
    "title": "Page 8 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=7",
    "description": ""
@@ -418,7 +409,7 @@
 
 {
   
-   "id": 46,
+   "id": 45,
    "title": "Page 9 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=8",
    "description": ""
@@ -427,7 +418,7 @@
 
 {
   
-   "id": 47,
+   "id": 46,
    "title": "Page 10 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=9",
    "description": ""
@@ -436,7 +427,7 @@
 
 {
   
-   "id": 48,
+   "id": 47,
    "title": "Page 11 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=10",
    "description": ""
@@ -445,7 +436,7 @@
 
 {
   
-   "id": 49,
+   "id": 48,
    "title": "Page 12 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=11",
    "description": ""
@@ -454,7 +445,7 @@
 
 {
   
-   "id": 50,
+   "id": 49,
    "title": "Page 13 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=12",
    "description": ""
@@ -463,7 +454,7 @@
 
 {
   
-   "id": 51,
+   "id": 50,
    "title": "Page 14 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=13",
    "description": ""
@@ -472,7 +463,7 @@
 
 {
   
-   "id": 52,
+   "id": 51,
    "title": "Page 15 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=14",
    "description": ""
@@ -481,7 +472,7 @@
 
 {
   
-   "id": 53,
+   "id": 52,
    "title": "Page 16 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=15",
    "description": ""
@@ -490,7 +481,7 @@
 
 {
   
-   "id": 54,
+   "id": 53,
    "title": "Page 17 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=16",
    "description": ""
@@ -499,7 +490,7 @@
 
 {
   
-   "id": 55,
+   "id": 54,
    "title": "Page 18 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=17",
    "description": ""
@@ -508,7 +499,7 @@
 
 {
   
-   "id": 56,
+   "id": 55,
    "title": "Page 19 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=18",
    "description": ""
@@ -517,7 +508,7 @@
 
 {
   
-   "id": 57,
+   "id": 56,
    "title": "Page 20 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=19",
    "description": ""
@@ -526,7 +517,7 @@
 
 {
   
-   "id": 58,
+   "id": 57,
    "title": "Page 21 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=20",
    "description": ""
@@ -535,7 +526,7 @@
 
 {
   
-   "id": 59,
+   "id": 58,
    "title": "Page 22 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=21",
    "description": ""
@@ -544,7 +535,7 @@
 
 {
   
-   "id": 60,
+   "id": 59,
    "title": "Page 23 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=22",
    "description": ""
@@ -553,7 +544,7 @@
 
 {
   
-   "id": 61,
+   "id": 60,
    "title": "Page 24 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=23",
    "description": ""
@@ -562,7 +553,7 @@
 
 {
   
-   "id": 62,
+   "id": 61,
    "title": "Page 25 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=24",
    "description": ""
@@ -571,7 +562,7 @@
 
 {
   
-   "id": 63,
+   "id": 62,
    "title": "Page 26 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=25",
    "description": ""
@@ -580,7 +571,7 @@
 
 {
   
-   "id": 64,
+   "id": 63,
    "title": "Page 27 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=26",
    "description": ""
@@ -589,7 +580,7 @@
 
 {
   
-   "id": 65,
+   "id": 64,
    "title": "Page 28 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=27",
    "description": ""
@@ -598,7 +589,7 @@
 
 {
   
-   "id": 66,
+   "id": 65,
    "title": "Page 29 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=28",
    "description": ""
@@ -607,7 +598,7 @@
 
 {
   
-   "id": 67,
+   "id": 66,
    "title": "Page 30 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=29",
    "description": ""
@@ -616,7 +607,7 @@
 
 {
   
-   "id": 68,
+   "id": 67,
    "title": "Page 31 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=30",
    "description": ""
@@ -625,7 +616,7 @@
 
 {
   
-   "id": 69,
+   "id": 68,
    "title": "Page 32 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=31",
    "description": ""
@@ -634,7 +625,7 @@
 
 {
   
-   "id": 70,
+   "id": 69,
    "title": "Page 33 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=32",
    "description": ""
@@ -643,7 +634,7 @@
 
 {
   
-   "id": 71,
+   "id": 70,
    "title": "Page 34 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=33",
    "description": ""
@@ -652,7 +643,7 @@
 
 {
   
-   "id": 72,
+   "id": 71,
    "title": "Page 35 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=34",
    "description": ""
@@ -661,7 +652,7 @@
 
 {
   
-   "id": 73,
+   "id": 72,
    "title": "Page 36 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=35",
    "description": ""
@@ -670,7 +661,7 @@
 
 {
   
-   "id": 74,
+   "id": 73,
    "title": "Page 37 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=36",
    "description": ""
@@ -679,7 +670,7 @@
 
 {
   
-   "id": 75,
+   "id": 74,
    "title": "Page 38 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=37",
    "description": ""
@@ -688,7 +679,7 @@
 
 {
   
-   "id": 76,
+   "id": 75,
    "title": "Page 39 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=38",
    "description": ""
@@ -697,7 +688,7 @@
 
 {
   
-   "id": 77,
+   "id": 76,
    "title": "Page 40 of Wild flowers of Western Canada – Excerpt from &#39;Wild flowers of Western Canada&#39;",
    "url": "/islandora/object/24/?page=39",
    "description": ""
@@ -706,7 +697,7 @@
 
 {
   
-   "id": 78,
+   "id": 77,
    "title": "Lucy Maud Montgomery Short Stories, 1896 - 1901",
    "url": "/islandora/object/169/",
    "description": "A selection of two narrated Lucy Maud Montgomery short stories."
@@ -715,7 +706,7 @@
 
 {
   
-   "id": 79,
+   "id": 78,
    "title": "A Case of Trespass",
    "url": "/islandora/object/170/",
    "description": "Lucy Maud Montgomery&#39;s &quot;A Case of Trespass&quot;, narrated by Qadhafi. "
@@ -724,7 +715,7 @@
 
 {
   
-   "id": 80,
+   "id": 79,
    "title": "A Christmas Inspiration",
    "url": "/islandora/object/171/",
    "description": "Lucy Maud Montgomery&#39;s &quot;A Christmas Inspiration&quot;, narrated by Darcia Douglas. "
@@ -733,7 +724,7 @@
 
 {
   
-   "id": 81,
+   "id": 80,
    "title": "1910 Grand Parade",
    "url": "/islandora/object/172/",
    "description": "This black and white postcard from 1910 depicts a military parade in Charlottetown with pictures of children in the foreground."
@@ -742,7 +733,7 @@
 
 {
   
-   "id": 82,
+   "id": 81,
    "title": "1910 Grand Parade Postcard Front",
    "url": "/islandora/object/173/",
    "description": ""
@@ -751,7 +742,7 @@
 
 {
   
-   "id": 83,
+   "id": 82,
    "title": "1910 Grand Parade Postcard Back",
    "url": "/islandora/object/174/",
    "description": ""
@@ -760,7 +751,7 @@
 
 {
   
-   "id": 84,
+   "id": 83,
    "title": "University of Prince Edward Island Cadre",
    "url": "/islandora/object/175/",
    "description": "The University of Prince Edward Island Cadre began publication on October 3, 1969. It was the successor to the Prince of Wales College Times and the St. Dunstan&amp;apos;s University Red and White, both of which institutions were amalgamated to form U.P.E.I. in 1969. The Cadre printed U.P.E.I. news and..."
@@ -769,7 +760,7 @@
 
 {
   
-   "id": 85,
+   "id": 84,
    "title": "The Cadre: Special Issue (Volume 1., No. 10)",
    "url": "/islandora/object/180/",
    "description": "Special Issue: What is the future of U.P.E.I? Can the proposed $100 raise in tuition and fees be justified? When do we get the provincial student aid?"
@@ -778,7 +769,7 @@
 
 {
   
-   "id": 86,
+   "id": 85,
    "title": "Page 1 – The Cadre: Special Issue (Volume 1., No. 10)",
    "url": "/islandora/object/176/",
    "description": ""
@@ -787,7 +778,7 @@
 
 {
   
-   "id": 87,
+   "id": 86,
    "title": "Page 2 – The Cadre: Special Issue (Volume 1., No. 10)",
    "url": "/islandora/object/180/?page=1",
    "description": ""
@@ -796,7 +787,7 @@
 
 {
   
-   "id": 88,
+   "id": 87,
    "title": "Page 3 – The Cadre: Special Issue (Volume 1., No. 10)",
    "url": "/islandora/object/180/?page=2",
    "description": ""
@@ -805,7 +796,7 @@
 
 {
   
-   "id": 89,
+   "id": 88,
    "title": "Page 4 – The Cadre: Special Issue (Volume 1., No. 10)",
    "url": "/islandora/object/180/?page=3",
    "description": ""
@@ -814,7 +805,7 @@
 
 {
   
-   "id": 90,
+   "id": 89,
    "title": "The Cadre (Volume 1., No. 08)",
    "url": "/islandora/object/181/",
    "description": "Council holds record meet! Students will advise departments, and MacKay walks out of senate."
@@ -823,7 +814,7 @@
 
 {
   
-   "id": 91,
+   "id": 90,
    "title": "Page 1 – The Cadre (Volume 1., No. 08)",
    "url": "/islandora/object/182/",
    "description": ""
@@ -832,7 +823,7 @@
 
 {
   
-   "id": 92,
+   "id": 91,
    "title": "Page 2 – The Cadre (Volume 1., No. 08)",
    "url": "/islandora/object/181/?page=1",
    "description": ""
@@ -841,7 +832,7 @@
 
 {
   
-   "id": 93,
+   "id": 92,
    "title": "Page 3 – The Cadre (Volume 1., No. 08)",
    "url": "/islandora/object/181/?page=2",
    "description": ""
@@ -850,7 +841,7 @@
 
 {
   
-   "id": 94,
+   "id": 93,
    "title": "Page 4 – The Cadre (Volume 1., No. 08)",
    "url": "/islandora/object/181/?page=3",
    "description": ""
@@ -859,7 +850,7 @@
 
 {
   
-   "id": 95,
+   "id": 94,
    "title": "The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/",
    "description": "English teachers protest rating, recommend abolition of &#39;Matrics&#39; in English. War is over (if he wants it) Hilton fires activists No discipline for faculty members."
@@ -868,7 +859,7 @@
 
 {
   
-   "id": 96,
+   "id": 95,
    "title": "Page 1 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/187/",
    "description": ""
@@ -877,7 +868,7 @@
 
 {
   
-   "id": 97,
+   "id": 96,
    "title": "Page 2 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=1",
    "description": ""
@@ -886,7 +877,7 @@
 
 {
   
-   "id": 98,
+   "id": 97,
    "title": "Page 3 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=2",
    "description": ""
@@ -895,7 +886,7 @@
 
 {
   
-   "id": 99,
+   "id": 98,
    "title": "Page 4 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=3",
    "description": ""
@@ -904,7 +895,7 @@
 
 {
   
-   "id": 100,
+   "id": 99,
    "title": "Page 5 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=4",
    "description": ""
@@ -913,7 +904,7 @@
 
 {
   
-   "id": 101,
+   "id": 100,
    "title": "Page 6 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=5",
    "description": ""
@@ -922,7 +913,7 @@
 
 {
   
-   "id": 102,
+   "id": 101,
    "title": "Page 7 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=6",
    "description": ""
@@ -931,7 +922,7 @@
 
 {
   
-   "id": 103,
+   "id": 102,
    "title": "Page 8 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=7",
    "description": ""
@@ -940,7 +931,7 @@
 
 {
   
-   "id": 104,
+   "id": 103,
    "title": "Page 9 – The Cadre (Volume 1., No. 13)",
    "url": "/islandora/object/186/?page=8",
    "description": ""
@@ -949,9 +940,18 @@
 
 {
   
-   "id": 105,
+   "id": 104,
    "title": "",
    "url": "/linked-agent/relators/",
+   "description": ""
+} ,
+
+
+{
+  
+   "id": 105,
+   "title": "",
+   "url": "/linked-agent/relators/author/",
    "description": ""
 } ,
 
@@ -969,7 +969,7 @@
   
    "id": 107,
    "title": "",
-   "url": "/linked-agent/relators/author/",
+   "url": "/linked-agent/relators/author/lucy-maud-montgomery/",
    "description": ""
 } ,
 
@@ -1014,7 +1014,7 @@
   
    "id": 112,
    "title": "",
-   "url": "/linked-agent/relators/author/lucy-maud-montgomery/",
+   "url": "/linked-agent/relators/storyteller/darcia-douglas/",
    "description": ""
 } ,
 
@@ -1031,8 +1031,8 @@
 {
   
    "id": 114,
-   "title": "",
-   "url": "/linked-agent/relators/storyteller/darcia-douglas/",
+   "title": "Search",
+   "url": "/search/",
    "description": ""
 } 
 

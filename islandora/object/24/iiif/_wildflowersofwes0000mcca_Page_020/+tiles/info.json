@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_020/+tiles",
+  "@id": "http://localhost:8080/islandora/object/24/iiif/_wildflowersofwes0000mcca_Page_020/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
