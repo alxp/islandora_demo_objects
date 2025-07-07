@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "http://localhost:8080/islandora/object/180/iiif/_19690121-001-010-004/+tiles",
+  "@id": "https://alxp.github.io/islandora_demo_objects/islandora/object/180/iiif/_19690121-001-010-004/+tiles",
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
